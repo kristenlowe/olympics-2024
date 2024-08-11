@@ -1,0 +1,1192 @@
+country_name,country_3_letter_code,year,medal_count,gold_count,silver_count,bronze_count,game_location,game_season,GDP
+Austria,AUT,1992,21,6,7,8,France,Winter,195078126722.0
+Canada,CAN,1992,7,2,3,2,France,Winter,594376087449.0
+Czechia,TCH,1992,3,0,0,3,France,Winter,34805013230.0
+Finland,FIN,1992,7,3,1,3,France,Winter,112532519246.0
+France,FRA,1992,9,3,5,1,France,Winter,1401465923172.0
+Germany,GER,1992,26,10,10,6,France,Winter,2131571696932.0
+Italy,ITA,1992,14,4,6,4,France,Winter,1320161644933.0
+Japan,JPN,1992,7,1,2,4,France,Winter,3908808434705.0
+Luxembourg,LUX,1992,2,0,2,0,France,Winter,15518702635.0
+Netherlands,NED,1992,4,1,1,2,France,Winter,362962872180.0
+New Zealand,NZL,1992,1,0,1,0,France,Winter,41649386970.0
+Norway,NOR,1992,20,9,6,5,France,Winter,130838022523.0
+China,CHN,1992,3,0,3,0,France,Winter,426915712716.0
+"Korea, Rep.",KOR,1992,4,2,1,1,France,Winter,355525267405.0
+Spain,ESP,1992,1,0,0,1,France,Winter,630916018203.0
+Sweden,SWE,1992,4,1,0,3,France,Winter,284319488252.0
+Switzerland,SUI,1992,3,1,0,2,France,Winter,279917776400.0
+Russian Federation,EUN,1992,23,9,6,8,France,Winter,460290556901.0
+United States,USA,1992,11,5,4,2,France,Winter,6520327000000.0
+Argentina,ARG,2004,6,2,0,4,Greece,Summer,164657930453.0
+Australia,AUS,2004,50,17,16,17,Greece,Summer,614326362214.0
+Austria,AUT,2004,7,2,4,1,Greece,Summer,301457562039.0
+Azerbaijan,AZE,2004,5,1,0,4,Greece,Summer,8680410158.0
+"Bahamas, The",BAH,2004,2,1,0,1,Greece,Summer,9055290000.0
+Belarus,BLR,2004,13,2,5,6,Greece,Summer,23141593074.0
+Belgium,BEL,2004,3,1,0,2,Greece,Summer,369214712443.0
+Brazil,BRA,2004,10,5,2,3,Greece,Summer,669289321954.0
+Bulgaria,BUL,2004,12,2,1,9,Greece,Summer,26157744753.0
+Cameroon,CMR,2004,1,1,0,0,Greece,Summer,18826214125.0
+Canada,CAN,2004,12,3,6,3,Greece,Summer,1026690238278.0
+Chile,CHI,2004,3,2,0,1,Greece,Summer,99079365628.0
+Colombia,COL,2004,2,0,0,2,Greece,Summer,117092416651.0
+Croatia,CRO,2004,5,1,2,2,Greece,Summer,41855265955.0
+Cuba,CUB,2004,27,9,7,11,Greece,Summer,38203000000.0
+Czechia,CZE,2004,9,1,3,5,Greece,Summer,119814667458.0
+Denmark,DEN,2004,8,2,1,5,Greece,Summer,251374821136.0
+Dominican Republic,DOM,2004,1,1,0,0,Greece,Summer,22322387610.0
+"Egypt, Arab Rep.",EGY,2004,5,1,1,3,Greece,Summer,78782467532.0
+Eritrea,ERI,2004,1,0,0,1,Greece,Summer,1109054005.0
+Estonia,EST,2004,3,0,1,2,Greece,Summer,12145911801.0
+Ethiopia,ETH,2004,7,2,3,2,Greece,Summer,10131187261.0
+Finland,FIN,2004,2,0,2,0,Greece,Summer,197479443979.0
+France,FRA,2004,33,11,9,13,Greece,Summer,2119633181634.0
+Georgia,GEO,2004,4,2,2,0,Greece,Summer,5125365192.0
+Germany,GER,2004,49,13,16,20,Greece,Summer,2814353869359.0
+United Kingdom,GBR,2004,30,9,9,12,Greece,Summer,2423047347028.0
+Greece,GRE,2004,16,6,6,4,Greece,Summer,240963562236.0
+"Hong Kong SAR, China",HKG,2004,1,0,1,0,Greece,Summer,169099768875.0
+Hungary,HUN,2004,17,8,6,3,Greece,Summer,104120803140.0
+India,IND,2004,1,0,1,0,Greece,Summer,709148514805.0
+Indonesia,INA,2004,4,1,1,2,Greece,Summer,256836875295.0
+"Iran, Islamic Rep.",IRI,2004,6,2,2,2,Greece,Summer,190043433965.0
+Israel,ISR,2004,2,1,0,1,Greece,Summer,139973668874.0
+Italy,ITA,2004,32,10,11,11,Greece,Summer,1806542968546.0
+Jamaica,JAM,2004,5,2,1,2,Greece,Summer,10174664854.0
+Japan,JPN,2004,37,16,9,12,Greece,Summer,4893116005657.0
+Kazakhstan,KAZ,2004,8,1,4,3,Greece,Summer,43151647003.0
+Kenya,KEN,2004,7,1,4,2,Greece,Summer,16095337094.0
+Latvia,LAT,2004,4,0,4,0,Greece,Summer,14435700533.0
+Lithuania,LTU,2004,3,1,2,0,Greece,Summer,22627507452.0
+Mexico,MEX,2004,4,0,3,1,Greece,Summer,782242912348.0
+Mongolia,MGL,2004,1,0,0,1,Greece,Summer,1992066808.0
+Morocco,MAR,2004,3,2,1,0,Greece,Summer,66114147932.0
+Netherlands,NED,2004,22,4,9,9,Greece,Summer,658380081545.0
+New Zealand,NZL,2004,5,3,2,0,Greece,Summer,103905628689.0
+Nigeria,NGR,2004,2,0,0,2,Greece,Summer,135764715375.0
+Norway,NOR,2004,6,5,0,1,Greece,Summer,265267350723.0
+Paraguay,PAR,2004,1,0,1,0,Greece,Summer,9624440836.0
+China,CHN,2004,63,32,17,14,Greece,Summer,1955346808095.0
+Poland,POL,2004,10,3,2,5,Greece,Summer,255107275407.0
+Portugal,POR,2004,3,0,2,1,Greece,Summer,189382122532.0
+"Korea, Rep.",KOR,2004,30,9,12,9,Greece,Summer,793175007858.0
+Romania,ROU,2004,19,8,5,6,Greece,Summer,74973660681.0
+Russian Federation,RUS,2004,90,28,26,36,Greece,Summer,591016690743.0
+Serbia,SCG,2004,2,0,2,0,Greece,Summer,26141968161.0
+Slovak Republic,SVK,2004,6,2,2,2,Greece,Summer,57437444469.0
+Slovenia,SLO,2004,4,0,1,3,Greece,Summer,34414784504.0
+South Africa,RSA,2004,6,1,3,2,Greece,Summer,255806928395.0
+Spain,ESP,2004,20,3,11,6,Greece,Summer,1069055675274.0
+Sweden,SWE,2004,7,4,2,1,Greece,Summer,385118743610.0
+Switzerland,SUI,2004,5,1,1,3,Greece,Summer,403914244452.0
+Syrian Arab Republic,SYR,2004,1,0,0,1,Greece,Summer,112863340757.0
+Thailand,THA,2004,8,3,1,4,Greece,Summer,172895685509.0
+Trinidad and Tobago,TTO,2004,1,0,0,1,Greece,Summer,13280292692.0
+Turkiye,TUR,2004,10,3,3,4,Greece,Summer,408865358517.0
+Ukraine,UKR,2004,22,8,5,9,Greece,Summer,67220154164.0
+United Arab Emirates,UAE,2004,1,1,0,0,Greece,Summer,147824370320.0
+United States,USA,2004,101,36,39,26,Greece,Summer,12217193198000.0
+Uzbekistan,UZB,2004,5,2,1,2,Greece,Summer,12030023548.0
+"Venezuela, RB",VEN,2004,2,0,0,2,Greece,Summer,112451400423.0
+Zimbabwe,ZIM,2004,3,1,1,1,Greece,Summer,5805598400.0
+Algeria,ALG,1996,3,2,0,1,United States,Summer,46941553940.0
+Argentina,ARG,1996,3,0,2,1,United States,Summer,272149750000.0
+Armenia,ARM,1996,2,1,1,0,United States,Summer,1596968946.0
+Australia,AUS,1996,41,9,9,23,United States,Summer,401310823653.0
+Austria,AUT,1996,3,0,1,2,United States,Summer,237250948791.0
+Azerbaijan,AZE,1996,1,0,1,0,United States,Summer,3176507992.0
+"Bahamas, The",BAH,1996,1,0,1,0,United States,Summer,3609000000.0
+Belarus,BLR,1996,15,1,6,8,United States,Summer,14756846154.0
+Belgium,BEL,1996,6,2,2,2,United States,Summer,279201433225.0
+Brazil,BRA,1996,15,3,3,9,United States,Summer,850426432992.0
+Bulgaria,BUL,1996,15,3,7,5,United States,Summer,12294987876.0
+Burundi,BDI,1996,1,1,0,0,United States,Summer,869033856.3
+Canada,CAN,1996,22,3,11,8,United States,Summer,630597987889.0
+Costa Rica,CRC,1996,1,1,0,0,United States,Summer,11678424507.0
+Croatia,CRO,1996,2,1,1,0,United States,Summer,24147539210.0
+Cuba,CUB,1996,25,9,8,8,United States,Summer,25017368700.0
+Czechia,CZE,1996,11,4,3,4,United States,Summer,67388492014.0
+Denmark,DEN,1996,6,4,1,1,United States,Summer,187633263193.0
+Ecuador,ECU,1996,1,1,0,0,United States,Summer,25226393197.0
+Ethiopia,ETH,1996,3,2,0,1,United States,Summer,8547939731.0
+Finland,FIN,1996,4,1,2,1,United States,Summer,132129174217.0
+France,FRA,1996,37,15,7,15,United States,Summer,1605675086550.0
+Georgia,GEO,1996,2,0,0,2,United States,Summer,3095047604.0
+Germany,GER,1996,65,20,18,27,United States,Summer,2497244606187.0
+United Kingdom,GBR,1996,15,1,8,6,United States,Summer,1421711933486.0
+Greece,GRE,1996,8,4,4,0,United States,Summer,145861612401.0
+"Hong Kong SAR, China",HKG,1996,1,1,0,0,United States,Summer,159718180109.0
+Hungary,HUN,1996,21,7,4,10,United States,Summer,46658765340.0
+India,IND,1996,1,0,0,1,United States,Summer,392896860671.0
+Indonesia,INA,1996,4,1,1,2,United States,Summer,227369679375.0
+Ireland,IRL,1996,4,3,0,1,United States,Summer,75790786290.0
+"Iran, Islamic Rep.",IRI,1996,3,1,1,1,United States,Summer,120403931885.0
+Israel,ISR,1996,1,0,0,1,United States,Summer,114507654661.0
+Italy,ITA,1996,35,13,10,12,United States,Summer,1312426527795.0
+Jamaica,JAM,1996,6,1,3,2,United States,Summer,7393891854.0
+Japan,JPN,1996,14,3,6,5,United States,Summer,4923393495139.0
+Kazakhstan,KAZ,1996,11,3,4,4,United States,Summer,21035357833.0
+Kenya,KEN,1996,8,1,4,3,United States,Summer,12045865466.0
+Latvia,LAT,1996,1,0,1,0,United States,Summer,5975248851.0
+Lithuania,LTU,1996,1,0,0,1,United States,Summer,8382519637.0
+Malaysia,MAS,1996,2,0,1,1,United States,Summer,100855393910.0
+Mexico,MEX,1996,1,0,0,1,United States,Summer,410972976953.0
+Mongolia,MGL,1996,1,0,0,1,United States,Summer,1345719472.0
+Morocco,MAR,1996,2,0,0,2,United States,Summer,43161572353.0
+Mozambique,MOZ,1996,1,0,0,1,United States,Summer,3856799844.0
+Namibia,NAM,1996,2,0,2,0,United States,Summer,3989163042.0
+Netherlands,NED,1996,19,4,5,10,United States,Summer,450490196078.0
+New Zealand,NZL,1996,6,3,2,1,United States,Summer,70140835299.0
+Nigeria,NGR,1996,6,2,1,3,United States,Summer,51075815093.0
+Norway,NOR,1996,7,2,2,3,United States,Summer,163519897878.0
+China,CHN,1996,50,16,22,12,United States,Summer,863749314719.0
+Philippines,PHI,1996,1,0,1,0,United States,Summer,94648084429.0
+Poland,POL,1996,17,7,5,5,United States,Summer,160193242090.0
+Portugal,POR,1996,2,1,0,1,United States,Summer,122630089680.0
+Puerto Rico,PUR,1996,1,0,0,1,United States,Summer,45340835000.0
+"Korea, Rep.",KOR,1996,27,7,15,5,United States,Summer,610169556840.0
+Moldova,MDA,1996,2,0,1,1,United States,Summer,1695122174.0
+Romania,ROU,1996,20,4,7,9,United States,Summer,36937074278.0
+Russian Federation,RUS,1996,63,26,21,16,United States,Summer,391724890744.0
+Serbia,SCG,1996,4,1,1,2,United States,Summer,21818007449.0
+Slovak Republic,SVK,1996,3,1,1,1,United States,Summer,27925036755.0
+Slovenia,SLO,1996,2,0,2,0,United States,Summer,21507232649.0
+South Africa,RSA,1996,5,3,1,1,United States,Summer,163234919053.0
+Spain,ESP,1996,17,5,6,6,United States,Summer,642588992513.0
+Sweden,SWE,1996,8,2,4,2,United States,Summer,291745732991.0
+Switzerland,SUI,1996,7,4,3,0,United States,Summer,340101207919.0
+Syrian Arab Republic,SYR,1996,1,1,0,0,United States,Summer,61546280624.0
+Thailand,THA,1996,2,1,0,1,United States,Summer,183035238433.0
+Tonga,TGA,1996,1,0,1,0,United States,Summer,222100576.3
+Trinidad and Tobago,TTO,1996,2,0,0,2,United States,Summer,5759570496.0
+Tunisia,TUN,1996,1,0,0,1,United States,Summer,19587155099.0
+Turkiye,TUR,1996,6,4,1,1,United States,Summer,181464650312.0
+Uganda,UGA,1996,1,0,0,1,United States,Summer,6044585327.0
+Ukraine,UKR,1996,23,9,2,12,United States,Summer,44558841762.0
+United States,USA,1996,101,44,32,25,United States,Summer,8073122000000.0
+Uzbekistan,UZB,1996,2,0,1,1,United States,Summer,13948892216.0
+Zambia,ZAM,1996,1,0,1,0,United States,Summer,3597220962.0
+Algeria,ALG,1992,2,1,0,1,Spain,Summer,48003133347.0
+Argentina,ARG,1992,1,0,0,1,Spain,Summer,228778994288.0
+Australia,AUS,1992,27,7,9,11,Spain,Summer,325532426233.0
+Austria,AUT,1992,2,0,2,0,Spain,Summer,195078126722.0
+"Bahamas, The",BAH,1992,1,0,0,1,Spain,Summer,3109000000.0
+Belgium,BEL,1992,3,0,1,2,Spain,Summer,234781652447.0
+Brazil,BRA,1992,3,2,1,0,Spain,Summer,390566561753.0
+Bulgaria,BUL,1992,16,3,7,6,Spain,Summer,10350515464.0
+Canada,CAN,1992,18,7,4,7,Spain,Summer,594376087449.0
+Colombia,COL,1992,1,0,0,1,Spain,Summer,58394443349.0
+Cuba,CUB,1992,31,14,6,11,Spain,Summer,22085858243.0
+Czechia,TCH,1992,7,4,2,1,Spain,Summer,34805013230.0
+Denmark,DEN,1992,6,1,1,4,Spain,Summer,152914810033.0
+Ethiopia,ETH,1992,3,1,0,2,Spain,Summer,10492993078.0
+Finland,FIN,1992,5,1,2,2,Spain,Summer,112532519246.0
+France,FRA,1992,29,8,5,16,Spain,Summer,1401465923172.0
+Germany,GER,1992,82,33,21,28,Spain,Summer,2131571696932.0
+Ghana,GHA,1992,1,0,0,1,Spain,Summer,6416079342.0
+United Kingdom,GBR,1992,20,5,3,12,Spain,Summer,1179713014952.0
+Greece,GRE,1992,2,2,0,0,Spain,Summer,116224672864.0
+Hungary,HUN,1992,30,11,12,7,Spain,Summer,38730585922.0
+Indonesia,INA,1992,5,2,2,1,Spain,Summer,128026966580.0
+Ireland,IRL,1992,2,1,1,0,Spain,Summer,55918538121.0
+Italy,ITA,1992,19,6,5,8,Spain,Summer,1320161644933.0
+Jamaica,JAM,1992,4,0,3,1,Spain,Summer,3535460090.0
+Japan,JPN,1992,22,3,8,11,Spain,Summer,3908808434705.0
+Kenya,KEN,1992,8,2,4,2,Spain,Summer,8209120678.0
+Malaysia,MAS,1992,1,0,0,1,Spain,Summer,59167550163.0
+Mexico,MEX,1992,1,0,1,0,Spain,Summer,363157793810.0
+Mongolia,MGL,1992,2,0,0,2,Spain,Summer,1317611864.0
+Morocco,MAR,1992,3,1,1,1,Spain,Summer,33711069431.0
+Namibia,NAM,1992,2,0,2,0,Spain,Summer,3429521499.0
+Netherlands,NED,1992,15,2,6,7,Spain,Summer,362962872180.0
+New Zealand,NZL,1992,10,1,4,5,Spain,Summer,41649386970.0
+Nigeria,NGR,1992,4,0,3,1,Spain,Summer,47794954192.0
+Norway,NOR,1992,7,2,4,1,Spain,Summer,130838022523.0
+Pakistan,PAK,1992,1,0,0,1,Spain,Summer,48884672605.0
+China,CHN,1992,54,16,22,16,Spain,Summer,426915712716.0
+Peru,PER,1992,1,0,1,0,Spain,Summer,35966302303.0
+Philippines,PHI,1992,1,0,0,1,Spain,Summer,60422329032.0
+Poland,POL,1992,19,3,6,10,Spain,Summer,94337047233.0
+Puerto Rico,PUR,1992,1,0,0,1,Spain,Summer,34630430000.0
+Qatar,QAT,1992,1,0,0,1,Spain,Summer,7646153984.0
+"Korea, Rep.",KOR,1992,29,12,5,12,Spain,Summer,355525267405.0
+Romania,ROU,1992,18,4,6,8,Spain,Summer,25121666667.0
+South Africa,RSA,1992,2,0,2,0,Spain,Summer,146956142399.0
+Spain,ESP,1992,22,13,7,2,Spain,Summer,630916018203.0
+Suriname,SUR,1992,1,0,0,1,Spain,Summer,404600000.0
+Sweden,SWE,1992,12,1,7,4,Spain,Summer,284319488252.0
+Switzerland,SUI,1992,1,1,0,0,Spain,Summer,279917776400.0
+Thailand,THA,1992,1,0,0,1,Spain,Summer,111452745856.0
+Turkiye,TUR,1992,6,2,2,2,Spain,Summer,159094972322.0
+Russian Federation,EUN,1992,112,45,38,29,Spain,Summer,460290556901.0
+United States,USA,1992,108,37,34,37,Spain,Summer,6520327000000.0
+Afghanistan,AFG,2008,1,0,0,1,China,Summer,10249770319.0
+Algeria,ALG,2008,2,0,1,1,China,Summer,171000699877.0
+Argentina,ARG,2008,6,2,0,4,China,Summer,361558037110.0
+Armenia,ARM,2008,5,0,1,4,China,Summer,11662040704.0
+Australia,AUS,2008,46,14,15,17,China,Summer,1055686110666.0
+Austria,AUT,2008,3,0,1,2,China,Summer,432051935643.0
+Azerbaijan,AZE,2008,6,1,1,4,China,Summer,48851318826.0
+"Bahamas, The",BAH,2008,2,0,1,1,China,Summer,10526000000.0
+Belarus,BLR,2008,14,3,4,7,China,Summer,60752177439.0
+Belgium,BEL,2008,2,2,0,0,China,Summer,517328087920.0
+Brazil,BRA,2008,17,3,4,10,China,Summer,1695855391816.0
+Bulgaria,BUL,2008,5,1,1,3,China,Summer,54480697770.0
+Cameroon,CMR,2008,1,1,0,0,China,Summer,27715142006.0
+Canada,CAN,2008,20,3,9,8,China,Summer,1552989690722.0
+Chile,CHI,2008,1,0,1,0,China,Summer,179663390875.0
+Colombia,COL,2008,3,0,2,1,China,Summer,242504150473.0
+Croatia,CRO,2008,5,0,2,3,China,Summer,68342061762.0
+Cuba,CUB,2008,30,3,10,17,China,Summer,56302129630.0
+Czechia,CZE,2008,7,3,3,1,China,Summer,236816948160.0
+Denmark,DEN,2008,7,2,2,3,China,Summer,353358901702.0
+Dominican Republic,DOM,2008,2,1,1,0,China,Summer,48122601590.0
+Ecuador,ECU,2008,1,0,1,0,China,Summer,61762635000.0
+"Egypt, Arab Rep.",EGY,2008,2,0,0,2,China,Summer,162818181818.0
+Estonia,EST,2008,2,1,1,0,China,Summer,24341678629.0
+Ethiopia,ETH,2008,7,4,2,1,China,Summer,27066912635.0
+Finland,FIN,2008,4,1,1,2,China,Summer,285716311137.0
+France,FRA,2008,41,6,15,20,China,Summer,2930303780828.0
+Georgia,GEO,2008,7,3,2,2,China,Summer,12795147992.0
+Germany,GER,2008,41,16,11,14,China,Summer,3745264093617.0
+United Kingdom,GBR,2008,51,19,13,19,China,Summer,2931683721187.0
+Greece,GRE,2008,3,0,2,1,China,Summer,355908689477.0
+Hungary,HUN,2008,10,3,5,2,China,Summer,158325583918.0
+Iceland,ISL,2008,1,0,1,0,China,Summer,18074619562.0
+India,IND,2008,3,1,0,2,China,Summer,1198895147695.0
+Indonesia,INA,2008,6,1,1,4,China,Summer,510228634992.0
+Ireland,IRL,2008,3,0,1,2,China,Summer,275447471451.0
+"Iran, Islamic Rep.",IRI,2008,2,1,0,1,China,Summer,412336172447.0
+Israel,ISR,2008,1,0,0,1,China,Summer,220529762562.0
+Italy,ITA,2008,27,8,9,10,China,Summer,2408655348719.0
+Jamaica,JAM,2008,10,5,4,1,China,Summer,13709401444.0
+Japan,JPN,2008,25,9,8,8,China,Summer,5106679413138.0
+Kazakhstan,KAZ,2008,9,2,3,4,China,Summer,133441649222.0
+Kenya,KEN,2008,16,6,4,6,China,Summer,35895153328.0
+Kyrgyz Republic,KGZ,2008,3,0,1,2,China,Summer,5139958956.0
+Latvia,LAT,2008,3,1,1,1,China,Summer,35854274229.0
+Lithuania,LTU,2008,5,0,3,2,China,Summer,47797551588.0
+Malaysia,MAS,2008,1,0,1,0,China,Summer,230811591307.0
+Mauritius,MRI,2008,1,0,0,1,China,Summer,9990356849.0
+Mexico,MEX,2008,4,2,0,2,China,Summer,1109987401386.0
+Mongolia,MGL,2008,4,2,2,0,China,Summer,5623216610.0
+Morocco,MAR,2008,2,0,1,1,China,Summer,101822906946.0
+Netherlands,NED,2008,16,7,5,4,China,Summer,951869997864.0
+New Zealand,NZL,2008,9,3,2,4,China,Summer,133131369930.0
+Nigeria,NGR,2008,5,0,2,3,China,Summer,339476215684.0
+Norway,NOR,2008,9,3,5,1,China,Summer,464917553191.0
+Panama,PAN,2008,1,1,0,0,China,Summer,25155888600.0
+China,CHN,2008,100,48,22,30,China,Summer,4594336785738.0
+Poland,POL,2008,11,4,5,2,China,Summer,533599853343.0
+Portugal,POR,2008,2,1,1,0,China,Summer,263416394624.0
+"Korea, Rep.",KOR,2008,32,13,11,8,China,Summer,1047339041904.0
+Moldova,MDA,2008,1,0,0,1,China,Summer,6054824433.0
+Romania,ROU,2008,9,4,1,4,China,Summer,214317174117.0
+Russian Federation,RUS,2008,60,24,13,23,China,Summer,1660848058303.0
+Samoa,SAM,2008,1,0,1,0,China,Summer,641346191.7
+Serbia,SRB,2008,3,0,1,2,China,Summer,52194221469.0
+Singapore,SGP,2008,1,0,1,0,China,Summer,193617346347.0
+Slovak Republic,SVK,2008,6,3,3,0,China,Summer,100879902985.0
+Slovenia,SLO,2008,5,1,2,2,China,Summer,55779427740.0
+South Africa,RSA,2008,1,0,1,0,China,Summer,316131245861.0
+Spain,ESP,2008,19,5,11,3,China,Summer,1631863493552.0
+Sudan,SUD,2008,1,0,1,0,China,Summer,64833088568.0
+Sweden,SWE,2008,5,0,4,1,China,Summer,517706214656.0
+Switzerland,SUI,2008,6,2,1,3,China,Summer,567273005013.0
+Tajikistan,TJK,2008,2,0,1,1,China,Summer,5161299725.0
+Thailand,THA,2008,6,2,2,2,China,Summer,291382985569.0
+Togo,TOG,2008,1,0,0,1,China,Summer,4516616224.0
+Trinidad and Tobago,TTO,2008,2,1,1,0,China,Summer,27871587350.0
+Tunisia,TUN,2008,1,1,0,0,China,Summer,44859452038.0
+Turkiye,TUR,2008,5,1,1,3,China,Summer,770449308781.0
+Ukraine,UKR,2008,22,7,4,11,China,Summer,188110375779.0
+United States,USA,2008,112,36,39,37,China,Summer,14769857911000.0
+Uzbekistan,UZB,2008,4,0,1,3,China,Summer,29549438884.0
+"Venezuela, RB",VEN,2008,1,0,0,1,China,Summer,315953388511.0
+Vietnam,VIE,2008,1,0,1,0,China,Summer,99130304099.0
+Zimbabwe,ZIM,2008,4,1,3,0,China,Summer,4415702800.0
+Austria,AUT,1988,10,3,5,2,Canada,Winter,133339397080.0
+Canada,CAN,1988,5,0,2,3,Canada,Winter,509379677196.0
+Germany,FRG,1988,8,2,4,2,Canada,Winter,1401233225303.0
+Finland,FIN,1988,7,4,1,2,Canada,Winter,109058990760.0
+France,FRA,1988,2,1,0,1,Canada,Winter,1018847043277.0
+Germany,GDR,1988,25,9,10,6,Canada,Winter,1401233225303.0
+Italy,ITA,1988,5,2,1,2,Canada,Winter,891608957156.0
+Japan,JPN,1988,1,0,0,1,Canada,Winter,3071683812150.0
+Liechtenstein,LIE,1988,1,0,0,1,Canada,Winter,1161757671.0
+Netherlands,NED,1988,7,3,2,2,Canada,Winter,261910508418.0
+Norway,NOR,1988,5,0,3,2,Canada,Winter,101900521458.0
+Russian Federation,URS,1988,29,11,9,9,Canada,Winter,554713455150.0
+Sweden,SWE,1988,6,4,0,2,Canada,Winter,206988363595.0
+Switzerland,SUI,1988,15,5,5,5,Canada,Winter,215540625299.0
+United States,USA,1988,6,2,1,3,Canada,Winter,5236438000000.0
+Austria,AUT,1968,11,3,4,4,France,Winter,12440625313.0
+Canada,CAN,1968,3,1,1,1,France,Winter,71830047239.0
+Finland,FIN,1968,5,1,2,2,France,Winter,8823033880.0
+France,FRA,1968,9,4,3,2,France,Winter,129785441507.0
+Italy,ITA,1968,4,4,0,0,France,Winter,87942231678.0
+Netherlands,NED,1968,9,3,3,3,France,Winter,27817605743.0
+Norway,NOR,1968,14,6,6,2,France,Winter,10159934037.0
+Sweden,SWE,1968,8,3,2,3,France,Winter,31066820769.0
+Switzerland,SUI,1968,6,0,2,4,France,Winter,18942730098.0
+United States,USA,1968,7,1,5,1,France,Winter,942500000000.0
+Austria,AUT,1964,12,4,5,3,Austria,Winter,9169983886.0
+Canada,CAN,1964,3,1,1,1,Austria,Winter,49377963149.0
+Finland,FIN,1964,10,3,4,3,Austria,Winter,7766655086.0
+France,FRA,1964,7,3,4,0,Austria,Winter,94007851047.0
+United Kingdom,GBR,1964,1,1,0,0,Austria,Winter,94407562407.0
+Italy,ITA,1964,4,0,1,3,Austria,Winter,63175417019.0
+Netherlands,NED,1964,2,1,1,0,Austria,Winter,18699380731.0
+Norway,NOR,1964,15,3,6,6,Austria,Winter,7159202706.0
+Sweden,SWE,1964,7,3,3,1,Austria,Winter,22532417359.0
+United States,USA,1964,7,1,2,4,Austria,Winter,685800000000.0
+Austria,AUT,1976,6,2,2,2,Austria,Winter,42959976222.0
+Canada,CAN,1976,3,1,1,1,Austria,Winter,207265662815.0
+Germany,FRG,1976,10,2,5,3,Austria,Winter,519754453161.0
+Finland,FIN,1976,7,2,4,1,Austria,Winter,31849513771.0
+France,FRA,1976,1,0,0,1,Austria,Winter,372319038514.0
+Germany,GDR,1976,19,7,5,7,Austria,Winter,519754453161.0
+United Kingdom,GBR,1976,1,1,0,0,Austria,Winter,232610445457.0
+Italy,ITA,1976,4,1,2,1,Austria,Winter,224717278437.0
+Liechtenstein,LIE,1976,2,0,0,2,Austria,Winter,272489336.9
+Netherlands,NED,1976,6,1,2,3,Austria,Winter,109168720620.0
+Norway,NOR,1976,7,3,3,1,Austria,Winter,35942160909.0
+Sweden,SWE,1976,2,0,0,2,Austria,Winter,89362242654.0
+United States,USA,1976,10,3,3,4,Austria,Winter,1873412000000.0
+Austria,AUT,1980,7,3,2,2,United States,Winter,82058912997.0
+Bulgaria,BUL,1980,1,0,0,1,United States,Winter,19839230769.0
+Canada,CAN,1980,2,0,1,1,United States,Winter,274770252172.0
+Germany,FRG,1980,4,0,2,2,United States,Winter,950290856467.0
+Finland,FIN,1980,9,1,5,3,United States,Winter,53645202423.0
+France,FRA,1980,1,0,0,1,United States,Winter,701288419745.0
+Germany,GDR,1980,23,9,7,7,United States,Winter,950290856467.0
+United Kingdom,GBR,1980,1,1,0,0,United States,Winter,564954276868.0
+Italy,ITA,1980,2,0,2,0,United States,Winter,477256775944.0
+Japan,JPN,1980,1,0,1,0,United States,Winter,1105385811263.0
+Liechtenstein,LIE,1980,4,2,2,0,United States,Winter,534699256.8
+Netherlands,NED,1980,4,1,2,1,United States,Winter,195152092662.0
+Norway,NOR,1980,10,1,3,6,United States,Winter,64439056748.0
+Sweden,SWE,1980,4,3,0,1,United States,Winter,142092908186.0
+Switzerland,SUI,1980,5,1,1,3,United States,Winter,122557234458.0
+United States,USA,1980,12,6,4,2,United States,Winter,2857307000000.0
+Australia,AUS,1994,1,0,0,1,Norway,Winter,322809408509.0
+Austria,AUT,1994,9,2,3,4,Norway,Winter,203535242742.0
+Belarus,BLR,1994,2,0,2,0,Norway,Winter,14932024169.0
+Canada,CAN,1994,13,3,6,4,Norway,Winter,579944346807.0
+Finland,FIN,1994,6,0,1,5,Norway,Winter,103299943085.0
+France,FRA,1994,5,0,1,4,Norway,Winter,1393982750473.0
+Germany,GER,1994,24,9,7,8,Norway,Winter,2205074123177.0
+United Kingdom,GBR,1994,2,0,0,2,Norway,Winter,1140443311075.0
+Italy,ITA,1994,20,7,5,8,Norway,Winter,1099216688281.0
+Japan,JPN,1994,5,1,2,2,Norway,Winter,4998797262443.0
+Kazakhstan,KAZ,1994,3,1,2,0,Norway,Winter,21250792886.0
+Netherlands,NED,1994,4,0,1,3,Norway,Winter,379130260322.0
+Norway,NOR,1994,26,10,11,5,Norway,Winter,127131604641.0
+China,CHN,1994,3,0,1,2,Norway,Winter,564321876346.0
+"Korea, Rep.",KOR,1994,6,4,1,1,Norway,Winter,463617399963.0
+Russian Federation,RUS,1994,23,11,8,4,Norway,Winter,395077301248.0
+Sweden,SWE,1994,3,2,1,0,Norway,Winter,229034457106.0
+Switzerland,SUI,1994,9,3,4,2,Norway,Winter,301376707849.0
+Ukraine,UKR,1994,2,1,0,1,Norway,Winter,52549553403.0
+United States,USA,1994,13,6,5,2,Norway,Winter,7287236000000.0
+Uzbekistan,UZB,1994,1,1,0,0,Norway,Winter,12899156991.0
+Afghanistan,AFG,2012,1,0,0,1,Great Britain,Summer,20203572960.0
+Algeria,ALG,2012,1,1,0,0,Great Britain,Summer,209059081828.0
+Argentina,ARG,2012,4,1,1,2,Great Britain,Summer,545982375701.0
+Armenia,ARM,2012,2,0,1,1,Great Britain,Summer,10619320693.0
+Australia,AUS,2012,35,8,15,12,Great Britain,Summer,1546952690140.0
+Azerbaijan,AZE,2012,10,2,2,6,Great Britain,Summer,69679913510.0
+"Bahamas, The",BAH,2012,1,1,0,0,Great Britain,Summer,10720500000.0
+Bahrain,BRN,2012,1,1,0,0,Great Britain,Summer,30749308511.0
+Belarus,BLR,2012,10,2,5,3,Great Britain,Summer,65685903570.0
+Belgium,BEL,2012,3,0,1,2,Great Britain,Summer,496152879925.0
+Botswana,BOT,2012,1,0,1,0,Great Britain,Summer,13907464500.0
+Brazil,BRA,2012,17,3,5,9,Great Britain,Summer,2465228293863.0
+Bulgaria,BUL,2012,3,0,2,1,Great Britain,Summer,54290156342.0
+Cameroon,CMR,2012,1,0,0,1,Great Britain,Summer,30155062303.0
+Canada,CAN,2012,18,2,5,11,Great Britain,Summer,1828366481522.0
+Colombia,COL,2012,8,1,3,4,Great Britain,Summer,370691143087.0
+Croatia,CRO,2012,6,3,1,2,Great Britain,Summer,57231455635.0
+Cuba,CUB,2012,15,5,3,7,Great Britain,Summer,73141000000.0
+Cyprus,CYP,2012,1,0,1,0,Great Britain,Summer,25047433100.0
+Czechia,CZE,2012,11,4,3,4,Great Britain,Summer,208857719321.0
+Denmark,DEN,2012,9,2,4,3,Great Britain,Summer,327148943812.0
+Dominican Republic,DOM,2012,2,1,1,0,Great Britain,Summer,60681535894.0
+"Egypt, Arab Rep.",EGY,2012,4,0,3,1,Great Britain,Summer,279116666667.0
+Estonia,EST,2012,2,0,1,1,Great Britain,Summer,23019150071.0
+Ethiopia,ETH,2012,7,3,2,2,Great Britain,Summer,43310721414.0
+Finland,FIN,2012,3,0,2,1,Great Britain,Summer,258290060228.0
+France,FRA,2012,35,11,11,13,Great Britain,Summer,2683671716967.0
+Gabon,GAB,2012,1,0,1,0,Great Britain,Summer,17170464001.0
+Georgia,GEO,2012,6,1,2,3,Great Britain,Summer,16488819133.0
+Germany,GER,2012,44,11,20,13,Great Britain,Summer,3527143188785.0
+United Kingdom,GBR,2012,65,29,17,19,Great Britain,Summer,2706340967031.0
+Greece,GRE,2012,2,0,0,2,Great Britain,Summer,242029307133.0
+Grenada,GRN,2012,1,1,0,0,Great Britain,Summer,799881481.5
+Guatemala,GUA,2012,1,0,1,0,Great Britain,Summer,49593926849.0
+"Hong Kong SAR, China",HKG,2012,1,0,0,1,Great Britain,Summer,262628877166.0
+Hungary,HUN,2012,18,8,4,6,Great Britain,Summer,128814279315.0
+India,IND,2012,6,0,2,4,Great Britain,Summer,1827637579585.0
+Indonesia,INA,2012,3,0,2,1,Great Britain,Summer,917869913365.0
+Ireland,IRL,2012,6,1,1,4,Great Britain,Summer,225628699653.0
+"Iran, Islamic Rep.",IRI,2012,13,6,6,1,Great Britain,Summer,644035512199.0
+Italy,ITA,2012,28,8,9,11,Great Britain,Summer,2086957656822.0
+Jamaica,JAM,2012,12,4,5,3,Great Britain,Summer,14807086491.0
+Japan,JPN,2012,38,7,14,17,Great Britain,Summer,6272362996105.0
+Kazakhstan,KAZ,2012,11,3,1,7,Great Britain,Summer,207998568866.0
+Kenya,KEN,2012,12,2,4,6,Great Britain,Summer,56396704833.0
+Kuwait,KUW,2012,1,0,0,1,Great Britain,Summer,174048271288.0
+Latvia,LAT,2012,2,1,0,1,Great Britain,Summer,28169902669.0
+Lithuania,LTU,2012,5,2,0,3,Great Britain,Summer,42927454291.0
+Malaysia,MAS,2012,2,0,1,1,Great Britain,Summer,314443061220.0
+Mexico,MEX,2012,8,1,3,4,Great Britain,Summer,1201093787127.0
+Mongolia,MGL,2012,5,0,2,3,Great Britain,Summer,12292770631.0
+Montenegro,MNE,2012,1,0,1,0,Great Britain,Summer,4087525609.0
+Morocco,MAR,2012,1,0,0,1,Great Britain,Summer,106937397478.0
+Netherlands,NED,2012,20,6,6,8,Great Britain,Summer,838923319920.0
+New Zealand,NZL,2012,13,6,2,5,Great Britain,Summer,176206659723.0
+Norway,NOR,2012,4,2,1,1,Great Britain,Summer,512777309841.0
+China,CHN,2012,91,38,31,22,Great Britain,Summer,8532185615747.0
+Poland,POL,2012,11,3,1,7,Great Britain,Summer,495230574357.0
+Portugal,POR,2012,1,0,1,0,Great Britain,Summer,216224240578.0
+Puerto Rico,PUR,2012,2,0,1,1,Great Britain,Summer,101564800000.0
+Qatar,QAT,2012,2,0,0,2,Great Britain,Summer,186833502363.0
+"Korea, Rep.",KOR,2012,30,13,9,8,Great Britain,Summer,1278427634343.0
+Romania,ROU,2012,9,2,5,2,Great Britain,Summer,179132893143.0
+Russian Federation,RUS,2012,67,20,19,28,Great Britain,Summer,2208293528674.0
+Saudi Arabia,KSA,2012,1,0,0,1,Great Britain,Summer,741849984943.0
+Serbia,SRB,2012,4,1,1,2,Great Britain,Summer,43309252921.0
+Singapore,SGP,2012,2,0,0,2,Great Britain,Summer,295092839975.0
+Slovak Republic,SVK,2012,4,0,1,3,Great Britain,Summer,94623731086.0
+Slovenia,SLO,2012,4,1,1,2,Great Britain,Summer,46577793184.0
+South Africa,RSA,2012,6,4,1,1,Great Britain,Summer,434400545086.0
+Spain,ESP,2012,18,4,10,4,Great Britain,Summer,1324750738725.0
+Sweden,SWE,2012,8,1,4,3,Great Britain,Summer,552483727283.0
+Switzerland,SUI,2012,4,2,2,0,Great Britain,Summer,686420221558.0
+Tajikistan,TJK,2012,1,0,0,1,Great Britain,Summer,7633036366.0
+Thailand,THA,2012,4,0,2,2,Great Britain,Summer,397558329542.0
+Trinidad and Tobago,TTO,2012,4,1,1,2,Great Britain,Summer,27121712419.0
+Tunisia,TUN,2012,3,2,0,1,Great Britain,Summer,47311411910.0
+Turkiye,TUR,2012,3,1,1,1,Great Britain,Summer,880555912746.0
+Uganda,UGA,2012,1,1,0,0,Great Britain,Summer,27305915908.0
+Ukraine,UKR,2012,19,5,4,10,Great Britain,Summer,182591746211.0
+United States,USA,2012,104,46,28,30,Great Britain,Summer,16253972230000.0
+Uzbekistan,UZB,2012,2,0,0,2,Great Britain,Summer,67517349212.0
+"Venezuela, RB",VEN,2012,1,1,0,0,Great Britain,Summer,381286237848.0
+Algeria,ALG,1984,2,0,0,2,United States,Summer,53698548298.0
+Australia,AUS,1984,24,4,8,12,United States,Summer,193517245510.0
+Austria,AUT,1984,3,1,1,1,United States,Summer,67985344887.0
+Belgium,BEL,1984,4,1,1,2,United States,Summer,83349530159.0
+Brazil,BRA,1984,8,1,5,2,United States,Summer,188339974087.0
+Cameroon,CMR,1984,1,0,0,1,United States,Summer,7311938030.0
+Canada,CAN,1984,44,10,18,16,United States,Summer,356727872422.0
+Colombia,COL,1984,1,0,1,0,United States,Summer,38253120738.0
+Denmark,DEN,1984,6,0,3,3,United States,Summer,59105284415.0
+Dominican Republic,DOM,1984,1,0,0,1,United States,Summer,11594000005.0
+"Egypt, Arab Rep.",EGY,1984,1,0,1,0,United States,Summer,33971188992.0
+Germany,FRG,1984,59,17,19,23,United States,Summer,725111123634.0
+Finland,FIN,1984,12,4,2,6,United States,Summer,52888800950.0
+France,FRA,1984,28,5,7,16,United States,Summer,530683779929.0
+United Kingdom,GBR,1984,37,5,11,21,United States,Summer,461483005638.0
+Greece,GRE,1984,2,0,1,1,United States,Summer,48020024184.0
+Iceland,ISL,1984,1,0,0,1,United States,Summer,2864437622.0
+Ireland,IRL,1984,1,0,1,0,United States,Summer,20106648455.0
+Italy,ITA,1984,32,14,6,12,United States,Summer,437887689002.0
+Cote d'Ivoire,CIV,1984,1,0,1,0,United States,Summer,6841639250.0
+Jamaica,JAM,1984,3,0,1,2,United States,Summer,2373564449.0
+Japan,JPN,1984,32,10,8,14,United States,Summer,1318381627007.0
+Kenya,KEN,1984,3,1,0,2,United States,Summer,6191437070.0
+Mexico,MEX,1984,6,2,3,1,United States,Summer,184231211497.0
+Morocco,MAR,1984,2,2,0,0,United States,Summer,14824668236.0
+Netherlands,NED,1984,13,5,2,6,United States,Summer,143912664148.0
+New Zealand,NZL,1984,11,8,1,2,United States,Summer,21665582141.0
+Nigeria,NGR,1984,2,0,1,1,United States,Summer,73484359521.0
+Norway,NOR,1984,3,0,1,2,United States,Summer,62058271863.0
+Pakistan,PAK,1984,1,1,0,0,United States,Summer,31151825467.0
+China,CHN,1984,32,15,8,9,United States,Summer,259946510957.0
+Peru,PER,1984,1,0,1,0,United States,Summer,17600400385.0
+Portugal,POR,1984,3,1,0,2,United States,Summer,25217969050.0
+Puerto Rico,PUR,1984,2,0,1,1,United States,Summer,19162600000.0
+"Korea, Rep.",KOR,1984,19,6,6,7,United States,Summer,97510235986.0
+Spain,ESP,1984,5,1,2,2,United States,Summer,172102910371.0
+Sweden,SWE,1984,19,2,11,6,United States,Summer,109201362589.0
+Switzerland,SUI,1984,8,0,4,4,United States,Summer,109456088574.0
+Syrian Arab Republic,SYR,1984,1,0,1,0,United States,Summer,19195414015.0
+Thailand,THA,1984,1,0,1,0,United States,Summer,41797647303.0
+Turkiye,TUR,1984,3,0,0,3,United States,Summer,59990263933.0
+United States,USA,1984,174,83,61,30,United States,Summer,4037613000000.0
+"Venezuela, RB",VEN,1984,3,0,0,3,United States,Summer,59867743468.0
+Zambia,ZAM,1984,1,0,0,1,United States,Summer,2719518933.0
+Argentina,ARG,1968,2,0,0,2,Mexico,Summer,26436857247.0
+Australia,AUS,1968,17,5,7,5,Mexico,Summer,32714085238.0
+Austria,AUT,1968,4,0,2,2,Mexico,Summer,12440625313.0
+Belgium,BEL,1968,2,0,1,1,Mexico,Summer,21376353113.0
+Brazil,BRA,1968,3,0,1,2,Mexico,Summer,33930457425.0
+Cameroon,CMR,1968,1,0,1,0,Mexico,Summer,1046191219.0
+Canada,CAN,1968,5,1,3,1,Mexico,Summer,71830047239.0
+Denmark,DEN,1968,8,1,4,3,Mexico,Summer,13505573855.0
+Finland,FIN,1968,4,1,2,1,Mexico,Summer,8823033880.0
+France,FRA,1968,15,7,3,5,Mexico,Summer,129785441507.0
+United Kingdom,GBR,1968,13,5,5,3,Mexico,Summer,107759913943.0
+Greece,GRE,1968,1,0,0,1,Mexico,Summer,10090675903.0
+India,IND,1968,1,0,0,1,Mexico,Summer,53085455825.0
+"Iran, Islamic Rep.",IRI,1968,5,2,1,2,Mexico,Summer,8623172951.0
+Italy,ITA,1968,16,3,4,9,Mexico,Summer,87942231678.0
+Jamaica,JAM,1968,1,0,1,0,Mexico,Summer,1083839133.0
+Japan,JPN,1968,25,11,7,7,Mexico,Summer,146601072539.0
+Kenya,KEN,1968,9,3,4,2,Mexico,Summer,1353295458.0
+Mexico,MEX,1968,9,3,3,3,Mexico,Summer,29359999971.0
+Netherlands,NED,1968,7,3,3,1,Mexico,Summer,27817605743.0
+New Zealand,NZL,1968,3,1,0,2,Mexico,Summer,5180597709.0
+Norway,NOR,1968,2,1,1,0,Mexico,Summer,10159934037.0
+Pakistan,PAK,1968,1,1,0,0,Mexico,Summer,8041999160.0
+"Korea, Rep.",KOR,1968,2,0,1,1,Mexico,Summer,6119284294.0
+Sweden,SWE,1968,4,2,1,1,Mexico,Summer,31066820769.0
+Switzerland,SUI,1968,5,0,1,4,Mexico,Summer,18942730098.0
+Tunisia,TUN,1968,2,1,0,1,Mexico,Summer,1214666668.0
+Turkiye,TUR,1968,2,2,0,0,Mexico,Summer,17422566374.0
+Uganda,UGA,1968,2,0,1,1,Mexico,Summer,1037379251.0
+United States,USA,1968,107,45,28,34,Mexico,Summer,942500000000.0
+"Venezuela, RB",VEN,1968,1,1,0,0,Mexico,Summer,10034444444.0
+Australia,AUS,1976,5,0,1,4,Canada,Summer,105060650224.0
+Austria,AUT,1976,1,0,0,1,Canada,Summer,42959976222.0
+Belgium,BEL,1976,6,0,3,3,Canada,Summer,71113882968.0
+Bermuda,BER,1976,1,0,0,1,Canada,Summer,386300000.0
+Brazil,BRA,1976,2,0,0,2,Canada,Summer,153168949208.0
+Canada,CAN,1976,11,0,5,6,Canada,Summer,207265662815.0
+Cuba,CUB,1976,13,6,4,3,Canada,Summer,13789579903.0
+Denmark,DEN,1976,3,1,0,2,Canada,Summer,44575708131.0
+Germany,FRG,1976,39,10,12,17,Canada,Summer,519754453161.0
+Finland,FIN,1976,6,4,2,0,Canada,Summer,31849513771.0
+France,FRA,1976,9,2,3,4,Canada,Summer,372319038514.0
+Germany,GDR,1976,90,40,25,25,Canada,Summer,519754453161.0
+United Kingdom,GBR,1976,13,3,5,5,Canada,Summer,232610445457.0
+"Iran, Islamic Rep.",IRI,1976,2,0,1,1,Canada,Summer,68055295081.0
+Italy,ITA,1976,13,2,7,4,Canada,Summer,224717278437.0
+Jamaica,JAM,1976,2,1,1,0,Canada,Summer,2966042856.0
+Japan,JPN,1976,25,9,6,10,Canada,Summer,586161859001.0
+Mexico,MEX,1976,2,1,0,1,Canada,Summer,88876787991.0
+Netherlands,NED,1976,5,0,2,3,Canada,Summer,109168720620.0
+New Zealand,NZL,1976,4,2,1,1,Canada,Summer,13604832424.0
+Norway,NOR,1976,2,1,1,0,Canada,Summer,35942160909.0
+Pakistan,PAK,1976,1,0,0,1,Canada,Summer,13168080808.0
+Portugal,POR,1976,2,0,2,0,Canada,Summer,20332831565.0
+Puerto Rico,PUR,1976,1,0,0,1,Canada,Summer,8968600000.0
+"Korea, Rep.",KOR,1976,6,1,1,4,Canada,Summer,29902479339.0
+Spain,ESP,1976,2,0,2,0,Canada,Summer,118507184780.0
+Sweden,SWE,1976,5,4,1,0,Canada,Summer,89362242654.0
+Thailand,THA,1976,1,0,0,1,Canada,Summer,16985208712.0
+Trinidad and Tobago,TTO,1976,1,1,0,0,Canada,Summer,2500424512.0
+United States,USA,1976,94,34,35,25,Canada,Summer,1873412000000.0
+"Venezuela, RB",VEN,1976,1,0,1,0,Canada,Summer,31419534884.0
+Australia,AUS,1980,9,2,2,5,USSR,Summer,149984401114.0
+Austria,AUT,1980,4,1,2,1,USSR,Summer,82058912997.0
+Belgium,BEL,1980,1,1,0,0,USSR,Summer,126829314388.0
+Brazil,BRA,1980,4,2,0,2,USSR,Summer,237393489893.0
+Bulgaria,BUL,1980,41,8,16,17,USSR,Summer,19839230769.0
+Cuba,CUB,1980,20,8,7,5,USSR,Summer,19912889861.0
+Denmark,DEN,1980,5,2,1,2,USSR,Summer,71127002865.0
+Finland,FIN,1980,8,3,1,4,USSR,Summer,53645202423.0
+France,FRA,1980,14,6,5,3,USSR,Summer,701288419745.0
+Germany,GDR,1980,126,47,37,42,USSR,Summer,950290856467.0
+United Kingdom,GBR,1980,21,5,7,9,USSR,Summer,564954276868.0
+Greece,GRE,1980,3,1,0,2,USSR,Summer,56829664269.0
+Guyana,GUY,1980,1,0,0,1,USSR,Summer,603200000.0
+India,IND,1980,1,1,0,0,USSR,Summer,186325345087.0
+Ireland,IRL,1980,2,0,1,1,USSR,Summer,21747855640.0
+Italy,ITA,1980,15,8,3,4,USSR,Summer,477256775944.0
+Jamaica,JAM,1980,3,0,0,3,USSR,Summer,2679379373.0
+Mexico,MEX,1980,4,0,1,3,USSR,Summer,205576980832.0
+Netherlands,NED,1980,3,0,1,2,USSR,Summer,195152092662.0
+Spain,ESP,1980,6,1,3,2,USSR,Summer,232766822929.0
+Sweden,SWE,1980,12,3,3,6,USSR,Summer,142092908186.0
+Switzerland,SUI,1980,2,2,0,0,USSR,Summer,122557234458.0
+Uganda,UGA,1980,1,0,1,0,USSR,Summer,1244610000.0
+"Venezuela, RB",VEN,1980,1,0,1,0,USSR,Summer,59116511628.0
+Zimbabwe,ZIM,1980,1,1,0,0,USSR,Summer,6678868200.0
+Argentina,ARG,1972,1,0,1,0,Federal Republic of Germany,Summer,34733000536.0
+Australia,AUS,1972,17,8,7,2,Federal Republic of Germany,Summer,52042056075.0
+Austria,AUT,1972,3,0,1,2,Federal Republic of Germany,Summer,22059612477.0
+Belgium,BEL,1972,2,0,2,0,Federal Republic of Germany,Summer,37209418019.0
+Brazil,BRA,1972,2,0,0,2,Federal Republic of Germany,Summer,58434858375.0
+Canada,CAN,1972,5,0,2,3,Federal Republic of Germany,Summer,113463848874.0
+Colombia,COL,1972,3,0,1,2,Federal Republic of Germany,Summer,8671358733.0
+Cuba,CUB,1972,8,3,1,4,Federal Republic of Germany,Summer,8135150892.0
+Denmark,DEN,1972,1,1,0,0,Federal Republic of Germany,Summer,23232407815.0
+Germany,FRG,1972,40,13,11,16,Federal Republic of Germany,Summer,299801542047.0
+Finland,FIN,1972,8,3,1,4,Federal Republic of Germany,Summer,14743186120.0
+France,FRA,1972,13,2,4,7,Federal Republic of Germany,Summer,203494148244.0
+Germany,GDR,1972,66,20,23,23,Federal Republic of Germany,Summer,299801542047.0
+Ghana,GHA,1972,1,0,0,1,Federal Republic of Germany,Summer,2112293280.0
+United Kingdom,GBR,1972,18,4,5,9,Federal Republic of Germany,Summer,169969084028.0
+Greece,GRE,1972,2,0,2,0,Federal Republic of Germany,Summer,16885511364.0
+India,IND,1972,1,0,0,1,Federal Republic of Germany,Summer,71463193831.0
+"Iran, Islamic Rep.",IRI,1972,3,0,2,1,Federal Republic of Germany,Summer,17153463263.0
+Italy,ITA,1972,18,5,3,10,Federal Republic of Germany,Summer,145260039841.0
+Jamaica,JAM,1972,1,0,0,1,Federal Republic of Germany,Summer,1875146587.0
+Japan,JPN,1972,29,13,8,8,Federal Republic of Germany,Summer,318031297493.0
+Kenya,KEN,1972,9,2,3,4,Federal Republic of Germany,Summer,2107279157.0
+Mexico,MEX,1972,1,0,1,0,Federal Republic of Germany,Summer,45199916695.0
+Netherlands,NED,1972,5,3,1,1,Federal Republic of Germany,Summer,54706557264.0
+New Zealand,NZL,1972,3,1,1,1,Federal Republic of Germany,Summer,9567202751.0
+Niger,NIG,1972,1,0,0,1,Federal Republic of Germany,Summer,742779659.5
+Nigeria,NGR,1972,1,0,0,1,Federal Republic of Germany,Summer,12274416018.0
+Norway,NOR,1972,4,2,1,1,Federal Republic of Germany,Summer,17358481291.0
+Pakistan,PAK,1972,1,0,1,0,Federal Republic of Germany,Summer,9415016360.0
+"Korea, Rep.",KOR,1972,1,0,1,0,Federal Republic of Germany,Summer,10862327878.0
+Spain,ESP,1972,1,0,0,1,Federal Republic of Germany,Summer,59132415221.0
+Sweden,SWE,1972,16,4,6,6,Federal Republic of Germany,Summer,48953974498.0
+Tunisia,TUN,1972,1,0,1,0,Federal Republic of Germany,Summer,2237554587.0
+Turkiye,TUR,1972,1,0,1,0,Federal Republic of Germany,Summer,20431095406.0
+Uganda,UGA,1972,2,1,1,0,Federal Republic of Germany,Summer,1490970267.0
+United States,USA,1972,94,33,31,30,Federal Republic of Germany,Summer,1279110000000.0
+Australia,AUS,1998,1,0,0,1,Japan,Winter,399660855999.0
+Austria,AUT,1998,17,3,5,9,Japan,Winter,218259904402.0
+Belarus,BLR,1998,2,0,0,2,Japan,Winter,15222012660.0
+Belgium,BEL,1998,1,0,0,1,Japan,Winter,258528339631.0
+Bulgaria,BUL,1998,1,1,0,0,Japan,Winter,15031052201.0
+Canada,CAN,1998,15,6,5,4,Japan,Winter,633997734247.0
+Czechia,CZE,1998,3,1,1,1,Japan,Winter,66807498696.0
+Denmark,DEN,1998,1,0,1,0,Japan,Winter,176991230634.0
+Finland,FIN,1998,12,2,4,6,Japan,Winter,134038718291.0
+France,FRA,1998,8,2,1,5,Japan,Winter,1503108739159.0
+Germany,GER,1998,29,12,9,8,Japan,Winter,2238990774703.0
+United Kingdom,GBR,1998,1,0,0,1,Japan,Winter,1654996607708.0
+Italy,ITA,1998,10,2,6,2,Japan,Winter,1270052525928.0
+Japan,JPN,1998,10,5,1,4,Japan,Winter,4098362688659.0
+Kazakhstan,KAZ,1998,2,0,0,2,Japan,Winter,22135245413.0
+Netherlands,NED,1998,11,5,4,2,Japan,Winter,438008220395.0
+Norway,NOR,1998,25,10,10,5,Japan,Winter,154230346261.0
+China,CHN,1998,8,0,6,2,Japan,Winter,1029060706188.0
+"Korea, Rep.",KOR,1998,6,3,1,2,Japan,Winter,383330931042.0
+Russian Federation,RUS,1998,18,9,6,3,Japan,Winter,270955486862.0
+Sweden,SWE,1998,3,0,2,1,Japan,Winter,270810151170.0
+Switzerland,SUI,1998,7,2,2,3,Japan,Winter,303456228792.0
+Ukraine,UKR,1998,1,0,1,0,Japan,Winter,41882529045.0
+United States,USA,1998,13,6,3,4,Japan,Winter,9062818202000.0
+Australia,AUS,2018,3,0,2,1,Republic of Korea,Winter,1428266513154.0
+Austria,AUT,2018,14,5,3,6,Republic of Korea,Winter,454991174096.0
+Belarus,BLR,2018,3,2,1,0,Republic of Korea,Winter,60031163987.0
+Belgium,BEL,2018,1,0,1,0,Republic of Korea,Winter,543299066999.0
+Canada,CAN,2018,29,11,8,10,Republic of Korea,Winter,1725297938436.0
+Czechia,CZE,2018,7,2,2,3,Republic of Korea,Winter,249000540729.0
+Finland,FIN,2018,6,1,1,4,Republic of Korea,Winter,275708001768.0
+France,FRA,2018,15,5,4,6,Republic of Korea,Winter,2790956878747.0
+Germany,GER,2018,31,14,10,7,Republic of Korea,Winter,3974443355020.0
+United Kingdom,GBR,2018,5,1,0,4,Republic of Korea,Winter,2878152147316.0
+Hungary,HUN,2018,1,1,0,0,Republic of Korea,Winter,160565642984.0
+Italy,ITA,2018,10,3,2,5,Republic of Korea,Winter,2091932426267.0
+Japan,JPN,2018,13,4,5,4,Republic of Korea,Winter,5040880939325.0
+Kazakhstan,KAZ,2018,1,0,0,1,Republic of Korea,Winter,179339977517.0
+Latvia,LAT,2018,1,0,0,1,Republic of Korea,Winter,34429023435.0
+Liechtenstein,LIE,2018,1,0,0,1,Republic of Korea,Winter,6692618411.0
+Netherlands,NED,2018,20,8,6,6,Republic of Korea,Winter,914043438180.0
+New Zealand,NZL,2018,2,0,0,2,Republic of Korea,Winter,211886686924.0
+Norway,NOR,2018,39,14,14,11,Republic of Korea,Winter,439788625884.0
+Russian Federation,OAR,2018,17,2,6,9,Republic of Korea,Winter,1657328764646.0
+China,CHN,2018,9,1,6,2,Republic of Korea,Winter,13894907485399.0
+Poland,POL,2018,2,1,0,1,Republic of Korea,Winter,588779850763.0
+"Korea, Rep.",KOR,2018,17,5,8,4,Republic of Korea,Winter,1724845615629.0
+Slovak Republic,SVK,2018,3,1,2,0,Republic of Korea,Winter,106137924016.0
+Slovenia,SLO,2018,2,0,1,1,Republic of Korea,Winter,54177882426.0
+Spain,ESP,2018,2,0,0,2,Republic of Korea,Winter,1421702715218.0
+Sweden,SWE,2018,14,7,6,1,Republic of Korea,Winter,555455371487.0
+Switzerland,SUI,2018,15,5,6,4,Republic of Korea,Winter,725562534364.0
+Ukraine,UKR,2018,1,1,0,0,Republic of Korea,Winter,130891086690.0
+United States,USA,2018,23,9,8,6,Republic of Korea,Winter,20533057312000.0
+Algeria,ALG,2016,2,0,2,0,Brazil,Summer,160034212613.0
+Argentina,ARG,2016,4,3,1,0,Brazil,Summer,557532317363.0
+Armenia,ARM,2016,4,1,3,0,Brazil,Summer,10546136240.0
+Australia,AUS,2016,29,8,11,10,Brazil,Summer,1206562910557.0
+Austria,AUT,2016,1,0,0,1,Brazil,Summer,395837353032.0
+Azerbaijan,AZE,2016,18,1,7,10,Brazil,Summer,37867007023.0
+"Bahamas, The",BAH,2016,2,1,0,1,Brazil,Summer,11750800000.0
+Bahrain,BRN,2016,2,1,1,0,Brazil,Summer,32234973404.0
+Belarus,BLR,2016,9,1,4,4,Brazil,Summer,47723549319.0
+Belgium,BEL,2016,6,2,2,2,Brazil,Summer,476062757357.0
+Brazil,BRA,2016,19,7,6,6,Brazil,Summer,1795693265824.0
+Bulgaria,BUL,2016,3,0,1,2,Brazil,Summer,53987487124.0
+Burundi,BDI,2016,1,0,1,0,Brazil,Summer,2644487777.0
+Canada,CAN,2016,22,4,3,15,Brazil,Summer,1527994741907.0
+Colombia,COL,2016,8,3,2,3,Brazil,Summer,282720100286.0
+Croatia,CRO,2016,10,5,3,2,Brazil,Summer,52391038979.0
+Cuba,CUB,2016,11,5,2,4,Brazil,Summer,91370000000.0
+Czechia,CZE,2016,10,1,2,7,Brazil,Summer,196272068576.0
+Denmark,DEN,2016,15,2,6,7,Brazil,Summer,313115929314.0
+Dominican Republic,DOM,2016,1,0,0,1,Brazil,Summer,75704647977.0
+"Egypt, Arab Rep.",EGY,2016,3,0,0,3,Brazil,Summer,332441717791.0
+Estonia,EST,2016,1,0,0,1,Brazil,Summer,24072829277.0
+Ethiopia,ETH,2016,8,1,2,5,Brazil,Summer,74296745599.0
+Fiji,FIJ,2016,1,1,0,0,Brazil,Summer,4930213788.0
+Finland,FIN,2016,1,0,0,1,Brazil,Summer,240771351299.0
+France,FRA,2016,42,10,18,14,Brazil,Summer,2472964344587.0
+Georgia,GEO,2016,7,2,1,4,Brazil,Summer,15141598623.0
+Germany,GER,2016,42,17,10,15,Brazil,Summer,3469853463946.0
+United Kingdom,GBR,2016,67,27,23,17,Brazil,Summer,2699659680997.0
+Greece,GRE,2016,6,3,1,2,Brazil,Summer,193148146587.0
+Grenada,GRN,2016,1,0,1,0,Brazil,Summer,1061640741.0
+Hungary,HUN,2016,15,8,3,4,Brazil,Summer,128609822750.0
+India,IND,2016,2,0,1,1,Brazil,Summer,2294796889945.0
+Indonesia,INA,2016,3,1,2,0,Brazil,Summer,931877364034.0
+Ireland,IRL,2016,2,0,2,0,Brazil,Summer,299091127525.0
+"Iran, Islamic Rep.",IRI,2016,8,3,1,4,Brazil,Summer,457954614595.0
+Israel,ISR,2016,2,0,0,2,Brazil,Summer,322102790387.0
+Italy,ITA,2016,28,8,12,8,Brazil,Summer,1877071687634.0
+Cote d'Ivoire,CIV,2016,2,1,0,1,Brazil,Summer,48407761032.0
+Jamaica,JAM,2016,11,6,3,2,Brazil,Summer,14077105503.0
+Japan,JPN,2016,41,12,8,21,Brazil,Summer,5003677627544.0
+Jordan,JOR,2016,1,1,0,0,Brazil,Summer,39892551127.0
+Kazakhstan,KAZ,2016,18,3,5,10,Brazil,Summer,137278320084.0
+Kenya,KEN,2016,13,6,6,1,Brazil,Summer,74815143796.0
+Kosovo,KOS,2016,1,1,0,0,Brazil,Summer,6682674063.0
+Lithuania,LTU,2016,4,0,1,3,Brazil,Summer,43047309306.0
+Malaysia,MAS,2016,5,0,4,1,Brazil,Summer,301255332137.0
+Mexico,MEX,2016,5,0,3,2,Brazil,Summer,1078493059307.0
+Mongolia,MGL,2016,2,0,1,1,Brazil,Summer,11181350649.0
+Morocco,MAR,2016,1,0,0,1,Brazil,Summer,111572946647.0
+Netherlands,NED,2016,19,8,7,4,Brazil,Summer,784060430240.0
+New Zealand,NZL,2016,18,4,9,5,Brazil,Summer,188838342528.0
+Niger,NIG,2016,1,0,1,0,Brazil,Summer,10398861981.0
+Nigeria,NGR,2016,1,0,0,1,Brazil,Summer,404649048648.0
+Norway,NOR,2016,4,0,0,4,Brazil,Summer,370956547619.0
+China,CHN,2016,70,26,18,26,Brazil,Summer,11233314018690.0
+Philippines,PHI,2016,1,0,1,0,Brazil,Summer,318627003966.0
+Poland,POL,2016,11,2,3,6,Brazil,Summer,470024559638.0
+Portugal,POR,2016,1,0,0,1,Brazil,Summer,206426152309.0
+Puerto Rico,PUR,2016,1,1,0,0,Brazil,Summer,104336700000.0
+Qatar,QAT,2016,1,0,1,0,Brazil,Summer,151732181868.0
+"Korea, Rep.",KOR,2016,21,9,3,9,Brazil,Summer,1500111596236.0
+Romania,ROU,2016,4,1,1,2,Brazil,Summer,185287615325.0
+Russian Federation,RUS,2016,56,19,17,20,Brazil,Summer,1276786344534.0
+Serbia,SRB,2016,8,2,4,2,Brazil,Summer,40692661657.0
+Singapore,SGP,2016,1,1,0,0,Brazil,Summer,319029973659.0
+Slovak Republic,SVK,2016,4,2,2,0,Brazil,Summer,89952699525.0
+Slovenia,SLO,2016,4,1,2,1,Brazil,Summer,44766722791.0
+South Africa,RSA,2016,10,2,6,2,Brazil,Summer,323585509674.0
+Spain,ESP,2016,17,7,4,6,Brazil,Summer,1233554967012.0
+Sweden,SWE,2016,11,2,6,3,Brazil,Summer,515654671470.0
+Switzerland,SUI,2016,7,3,2,2,Brazil,Summer,687895460903.0
+Tajikistan,TJK,2016,1,1,0,0,Brazil,Summer,6992416097.0
+Thailand,THA,2016,6,2,2,2,Brazil,Summer,413366345844.0
+Trinidad and Tobago,TTO,2016,1,0,0,1,Brazil,Summer,23496215881.0
+Tunisia,TUN,2016,3,0,0,3,Brazil,Summer,44360065797.0
+Turkiye,TUR,2016,8,1,3,4,Brazil,Summer,869682954136.0
+Ukraine,UKR,2016,11,2,5,4,Brazil,Summer,93355868978.0
+United Arab Emirates,UAE,2016,1,0,0,1,Brazil,Summer,369255326236.0
+United States,USA,2016,121,46,37,38,Brazil,Summer,18695110842000.0
+Uzbekistan,UZB,2016,13,4,2,7,Brazil,Summer,86138288633.0
+Vietnam,VIE,2016,2,1,1,0,Brazil,Summer,257096001174.0
+Australia,AUS,1960,22,8,8,6,Italy,Summer,18606562979.0
+Austria,AUT,1960,2,1,1,0,Italy,Summer,6592693841.0
+Belgium,BEL,1960,4,0,2,2,Italy,Summer,11658722591.0
+Brazil,BRA,1960,2,0,0,2,Italy,Summer,17030465539.0
+Canada,CAN,1960,1,0,1,0,Italy,Summer,40462398502.0
+Finland,FIN,1960,5,1,1,3,Italy,Summer,5224102196.0
+France,FRA,1960,5,0,2,3,Italy,Summer,62225478001.0
+Ghana,GHA,1960,1,0,1,0,Italy,Summer,1217230095.0
+United Kingdom,GBR,1960,20,2,6,12,Italy,Summer,73233970838.0
+Greece,GRE,1960,1,1,0,0,Italy,Summer,4335186017.0
+India,IND,1960,1,0,1,0,Italy,Summer,37029883847.0
+Iraq,IRQ,1960,1,0,0,1,Italy,Summer,1683918769.0
+"Iran, Islamic Rep.",IRI,1960,4,0,1,3,Italy,Summer,4199134386.0
+Italy,ITA,1960,36,13,10,13,Italy,Summer,40385288344.0
+Japan,JPN,1960,18,4,7,7,Italy,Summer,44307342906.0
+Mexico,MEX,1960,1,0,0,1,Italy,Summer,13039999987.0
+Morocco,MAR,1960,1,0,1,0,Italy,Summer,2037154740.0
+Netherlands,NED,1960,3,0,1,2,Italy,Summer,12276734172.0
+New Zealand,NZL,1960,3,2,0,1,Italy,Summer,5485854792.0
+Norway,NOR,1960,1,1,0,0,Italy,Summer,5163271598.0
+Pakistan,PAK,1960,2,1,0,1,Italy,Summer,3749265015.0
+Portugal,POR,1960,1,0,1,0,Italy,Summer,3193200404.0
+Singapore,SGP,1960,1,0,1,0,Italy,Summer,704751699.8
+South Africa,RSA,1960,3,0,1,2,Italy,Summer,8748596504.0
+Spain,ESP,1960,1,0,0,1,Italy,Summer,12072126075.0
+Sweden,SWE,1960,6,1,2,3,Italy,Summer,15822585461.0
+Switzerland,SUI,1960,6,0,3,3,Italy,Summer,9522746880.0
+Turkiye,TUR,1960,9,7,2,0,Italy,Summer,7552470819.0
+United States,USA,1960,71,34,21,16,Italy,Summer,543300000000.0
+"Venezuela, RB",VEN,1960,1,0,0,1,Italy,Summer,7663938303.0
+Australia,AUS,2002,2,2,0,0,United States,Winter,395573025330.0
+Austria,AUT,2002,17,3,4,10,United States,Winter,214394866675.0
+Belarus,BLR,2002,1,0,0,1,United States,Winter,14594928109.0
+Bulgaria,BUL,2002,3,0,1,2,United States,Winter,16403043850.0
+Canada,CAN,2002,17,7,3,7,United States,Winter,760649334098.0
+Croatia,CRO,2002,4,3,1,0,United States,Winter,26757255952.0
+Czechia,CZE,2002,3,1,2,0,United States,Winter,82196206090.0
+Estonia,EST,2002,3,1,1,1,United States,Winter,7367975888.0
+Finland,FIN,2002,7,4,2,1,United States,Winter,140404460203.0
+France,FRA,2002,11,4,5,2,United States,Winter,1501409382971.0
+Germany,GER,2002,36,12,16,8,United States,Winter,2078484517475.0
+United Kingdom,GBR,2002,2,1,0,1,United States,Winter,1785781372554.0
+Italy,ITA,2002,13,4,4,5,United States,Winter,1276769338449.0
+Japan,JPN,2002,2,0,1,1,United States,Winter,4182845406489.0
+Netherlands,NED,2002,8,3,5,0,United States,Winter,473861980071.0
+Norway,NOR,2002,25,13,5,7,United States,Winter,195915371988.0
+China,CHN,2002,8,2,2,4,United States,Winter,1470557565966.0
+Poland,POL,2002,2,0,1,1,United States,Winter,199070432431.0
+"Korea, Rep.",KOR,2002,4,2,2,0,United States,Winter,627246081417.0
+Russian Federation,RUS,2002,13,5,4,4,United States,Winter,345470494418.0
+Slovenia,SLO,2002,1,0,0,1,United States,Winter,23489890274.0
+Sweden,SWE,2002,7,0,2,5,United States,Winter,266848422378.0
+Switzerland,SUI,2002,11,3,2,6,United States,Winter,309299934076.0
+United States,USA,2002,34,10,13,11,United States,Winter,10929112955000.0
+Austria,AUT,1972,5,1,2,2,Japan,Winter,22059612477.0
+Canada,CAN,1972,1,0,1,0,Japan,Winter,113463848874.0
+Germany,FRG,1972,5,3,1,1,Japan,Winter,299801542047.0
+Finland,FIN,1972,5,0,4,1,Japan,Winter,14743186120.0
+France,FRA,1972,3,0,1,2,Japan,Winter,203494148244.0
+Germany,GDR,1972,14,4,3,7,Japan,Winter,299801542047.0
+Italy,ITA,1972,5,2,2,1,Japan,Winter,145260039841.0
+Japan,JPN,1972,3,1,1,1,Japan,Winter,318031297493.0
+Netherlands,NED,1972,9,4,3,2,Japan,Winter,54706557264.0
+Norway,NOR,1972,12,2,5,5,Japan,Winter,17358481291.0
+Spain,ESP,1972,1,1,0,0,Japan,Winter,59132415221.0
+Sweden,SWE,1972,4,1,1,2,Japan,Winter,48953974498.0
+United States,USA,1972,8,3,2,3,Japan,Winter,1279110000000.0
+Austria,AUT,1984,1,0,0,1,Yugoslavia,Winter,67985344887.0
+Canada,CAN,1984,4,2,1,1,Yugoslavia,Winter,356727872422.0
+Germany,FRG,1984,4,2,1,1,Yugoslavia,Winter,725111123634.0
+Finland,FIN,1984,13,4,3,6,Yugoslavia,Winter,52888800950.0
+France,FRA,1984,3,0,1,2,Yugoslavia,Winter,530683779929.0
+Germany,GDR,1984,24,9,9,6,Yugoslavia,Winter,725111123634.0
+United Kingdom,GBR,1984,1,1,0,0,Yugoslavia,Winter,461483005638.0
+Italy,ITA,1984,2,2,0,0,Yugoslavia,Winter,437887689002.0
+Japan,JPN,1984,1,0,1,0,Yugoslavia,Winter,1318381627007.0
+Liechtenstein,LIE,1984,2,0,0,2,Yugoslavia,Winter,502620920.7
+Norway,NOR,1984,9,3,2,4,Yugoslavia,Winter,62058271863.0
+Sweden,SWE,1984,8,4,2,2,Yugoslavia,Winter,109201362589.0
+Switzerland,SUI,1984,5,2,2,1,Yugoslavia,Winter,109456088574.0
+United States,USA,1984,8,4,4,0,Yugoslavia,Winter,4037613000000.0
+Argentina,ARG,1988,2,0,1,1,Republic of Korea,Summer,126890235049.0
+Australia,AUS,1988,14,3,6,5,Republic of Korea,Summer,236152526239.0
+Austria,AUT,1988,1,1,0,0,Republic of Korea,Summer,133339397080.0
+Belgium,BEL,1988,2,0,0,2,Republic of Korea,Summer,162299103675.0
+Brazil,BRA,1988,6,1,2,3,Republic of Korea,Summer,307881930752.0
+Bulgaria,BUL,1988,35,10,12,13,Republic of Korea,Summer,22555941176.0
+Canada,CAN,1988,10,3,2,5,Republic of Korea,Summer,509379677196.0
+Chile,CHI,1988,1,0,1,0,Republic of Korea,Summer,26040052657.0
+Colombia,COL,1988,1,0,0,1,Republic of Korea,Summer,39212550050.0
+Costa Rica,CRC,1988,1,0,1,0,Republic of Korea,Summer,4614629898.0
+Denmark,DEN,1988,4,2,1,1,Republic of Korea,Summer,115552417469.0
+Djibouti,DJI,1988,1,0,0,1,Republic of Korea,Summer,395794538.6
+Germany,FRG,1988,40,11,14,15,Republic of Korea,Summer,1401233225303.0
+Finland,FIN,1988,4,1,1,2,Republic of Korea,Summer,109058990760.0
+France,FRA,1988,16,6,4,6,Republic of Korea,Summer,1018847043277.0
+Germany,GDR,1988,102,37,35,30,Republic of Korea,Summer,1401233225303.0
+United Kingdom,GBR,1988,24,5,10,9,Republic of Korea,Summer,910171030658.0
+Greece,GRE,1988,1,0,0,1,Republic of Korea,Summer,76261277925.0
+Indonesia,INA,1988,1,0,1,0,Republic of Korea,Summer,84300174476.0
+"Iran, Islamic Rep.",IRI,1988,1,0,1,0,Republic of Korea,Summer,123057861334.0
+Italy,ITA,1988,14,6,4,4,Republic of Korea,Summer,891608957156.0
+Jamaica,JAM,1988,2,0,2,0,Republic of Korea,Summer,3828342704.0
+Japan,JPN,1988,14,4,3,7,Republic of Korea,Summer,3071683812150.0
+Kenya,KEN,1988,9,5,2,2,Republic of Korea,Summer,8355380879.0
+Mexico,MEX,1988,2,0,0,2,Republic of Korea,Summer,181611150497.0
+Mongolia,MGL,1988,1,0,0,1,Republic of Korea,Summer,3204461567.0
+Morocco,MAR,1988,3,1,0,2,Republic of Korea,Summer,25705296184.0
+Netherlands,NED,1988,9,2,2,5,Republic of Korea,Summer,261910508418.0
+Netherlands,AHO,1988,1,0,1,0,Republic of Korea,Summer,261910508418.0
+New Zealand,NZL,1988,13,3,2,8,Republic of Korea,Summer,45176423606.0
+Norway,NOR,1988,5,2,3,0,Republic of Korea,Summer,101900521458.0
+Pakistan,PAK,1988,1,0,0,1,Republic of Korea,Summer,38472742808.0
+China,CHN,1988,28,5,11,12,Republic of Korea,Summer,312353631208.0
+Peru,PER,1988,1,0,1,0,Republic of Korea,Summer,15439408447.0
+Philippines,PHI,1988,1,0,0,1,Republic of Korea,Summer,43152128959.0
+Portugal,POR,1988,1,1,0,0,Republic of Korea,Summer,56347250696.0
+"Korea, Rep.",KOR,1988,33,12,10,11,Republic of Korea,Summer,199590823957.0
+Romania,ROU,1988,24,7,11,6,Republic of Korea,Summer,40424526826.0
+Senegal,SEN,1988,1,0,1,0,Republic of Korea,Summer,6418419393.0
+Russian Federation,URS,1988,132,55,31,46,Republic of Korea,Summer,554713455150.0
+Spain,ESP,1988,4,1,1,2,Republic of Korea,Summer,376160409941.0
+Suriname,SUR,1988,1,1,0,0,Republic of Korea,Summer,1161000000.0
+Sweden,SWE,1988,11,0,4,7,Republic of Korea,Summer,206988363595.0
+Switzerland,SUI,1988,4,0,2,2,Republic of Korea,Summer,215540625299.0
+Thailand,THA,1988,1,0,0,1,Republic of Korea,Summer,61667254411.0
+Turkiye,TUR,1988,2,1,1,0,Republic of Korea,Summer,90853080152.0
+United States,USA,1988,94,36,31,27,Republic of Korea,Summer,5236438000000.0
+Australia,AUS,2014,3,0,2,1,Russian Federation,Winter,1467589901175.0
+Austria,AUT,2014,17,4,8,5,Russian Federation,Winter,442584815286.0
+Belarus,BLR,2014,6,5,0,1,Russian Federation,Winter,78812785768.0
+Canada,CAN,2014,25,10,10,5,Russian Federation,Winter,1805749878440.0
+Croatia,CRO,2014,1,0,1,0,Russian Federation,Winter,59214461630.0
+Czechia,CZE,2014,8,2,4,2,Russian Federation,Winter,209358834156.0
+Finland,FIN,2014,5,1,3,1,Russian Federation,Winter,274862826772.0
+France,FRA,2014,15,4,4,7,Russian Federation,Winter,2855964488590.0
+Germany,GER,2014,19,8,6,5,Russian Federation,Winter,3889093051023.0
+United Kingdom,GBR,2014,5,1,1,3,Russian Federation,Winter,3065223279584.0
+Italy,ITA,2014,8,0,2,6,Russian Federation,Winter,2162009615997.0
+Japan,JPN,2014,8,1,4,3,Russian Federation,Winter,4896994405353.0
+Kazakhstan,KAZ,2014,1,0,0,1,Russian Federation,Winter,221415614007.0
+Latvia,LAT,2014,5,1,1,3,Russian Federation,Winter,31386896487.0
+Netherlands,NED,2014,24,8,7,9,Russian Federation,Winter,892167986714.0
+Norway,NOR,2014,26,11,5,10,Russian Federation,Winter,501736471833.0
+China,CHN,2014,9,3,4,2,Russian Federation,Winter,10475624783236.0
+Poland,POL,2014,6,4,1,1,Russian Federation,Winter,539080532037.0
+"Korea, Rep.",KOR,2014,8,3,3,2,Russian Federation,Winter,1484318219634.0
+Russian Federation,RUS,2014,29,11,9,9,Russian Federation,Winter,2059241582146.0
+Slovak Republic,SVK,2014,1,1,0,0,Russian Federation,Winter,101437045020.0
+Slovenia,SLO,2014,8,2,2,4,Russian Federation,Winter,49997186439.0
+Sweden,SWE,2014,15,2,7,6,Russian Federation,Winter,581964017237.0
+Switzerland,SUI,2014,11,7,2,2,Russian Federation,Winter,726537808338.0
+Ukraine,UKR,2014,2,1,0,1,Russian Federation,Winter,133503867182.0
+United States,USA,2014,28,9,9,10,Russian Federation,Winter,17550680174000.0
+Austria,AUT,1960,6,1,2,3,United States,Winter,6592693841.0
+Canada,CAN,1960,4,2,1,1,United States,Winter,40462398502.0
+Finland,FIN,1960,8,2,3,3,United States,Winter,5224102196.0
+France,FRA,1960,3,1,0,2,United States,Winter,62225478001.0
+Italy,ITA,1960,1,0,0,1,United States,Winter,40385288344.0
+Netherlands,NED,1960,2,0,1,1,United States,Winter,12276734172.0
+Norway,NOR,1960,6,3,3,0,United States,Winter,5163271598.0
+Sweden,SWE,1960,7,3,2,2,United States,Winter,15822585461.0
+Switzerland,SUI,1960,2,2,0,0,United States,Winter,9522746880.0
+United States,USA,1960,10,3,4,3,United States,Winter,543300000000.0
+Algeria,ALG,2000,5,1,1,3,Australia,Summer,54790398813.0
+Argentina,ARG,2000,4,0,2,2,Australia,Summer,284203750000.0
+Armenia,ARM,2000,1,0,0,1,Australia,Summer,1911563669.0
+Australia,AUS,2000,58,16,25,17,Australia,Summer,415844972940.0
+Austria,AUT,2000,3,2,1,0,Australia,Summer,197289625480.0
+Azerbaijan,AZE,2000,3,2,0,1,Australia,Summer,5272617196.0
+"Bahamas, The",BAH,2000,3,2,0,1,Australia,Summer,8076470000.0
+Barbados,BAR,2000,1,0,0,1,Australia,Summer,3059500000.0
+Belarus,BLR,2000,17,3,3,11,Australia,Summer,12736856828.0
+Belgium,BEL,2000,5,0,2,3,Australia,Summer,236792460312.0
+Brazil,BRA,2000,12,0,6,6,Australia,Summer,655448188246.0
+Bulgaria,BUL,2000,13,5,6,2,Australia,Summer,13245990274.0
+Cameroon,CMR,2000,1,1,0,0,Australia,Summer,10566579295.0
+Canada,CAN,2000,14,3,3,8,Australia,Summer,744773415932.0
+Chile,CHI,2000,1,0,0,1,Australia,Summer,78249883996.0
+Colombia,COL,2000,1,1,0,0,Australia,Summer,99875074935.0
+Costa Rica,CRC,2000,2,0,0,2,Australia,Summer,15013629659.0
+Croatia,CRO,2000,2,1,0,1,Australia,Summer,22128719418.0
+Cuba,CUB,2000,29,11,11,7,Australia,Summer,30565400000.0
+Czechia,CZE,2000,8,2,3,3,Australia,Summer,61823494487.0
+Denmark,DEN,2000,6,2,3,1,Australia,Summer,164157842127.0
+Estonia,EST,2000,3,1,0,2,Australia,Summer,5686579748.0
+Ethiopia,ETH,2000,8,4,1,3,Australia,Summer,8242349955.0
+Finland,FIN,2000,4,2,1,1,Australia,Summer,126019543413.0
+France,FRA,2000,38,13,14,11,Australia,Summer,1365639660792.0
+Georgia,GEO,2000,6,0,0,6,Australia,Summer,3057475335.0
+Germany,GER,2000,56,13,17,26,Australia,Summer,1947981991012.0
+United Kingdom,GBR,2000,28,11,10,7,Australia,Summer,1666048767080.0
+Greece,GRE,2000,13,4,6,3,Australia,Summer,130457756628.0
+Hungary,HUN,2000,17,8,6,3,Australia,Summer,47218411470.0
+Iceland,ISL,2000,1,0,0,1,Australia,Summer,9025660362.0
+India,IND,2000,1,0,0,1,Australia,Summer,468394937262.0
+Indonesia,INA,2000,6,1,3,2,Australia,Summer,165021012078.0
+Ireland,IRL,2000,1,0,1,0,Australia,Summer,100207610430.0
+"Iran, Islamic Rep.",IRI,2000,4,3,0,1,Australia,Summer,109591707802.0
+Israel,ISR,2000,1,0,0,1,Australia,Summer,136034659581.0
+Italy,ITA,2000,34,13,8,13,Australia,Summer,1146676894210.0
+Jamaica,JAM,2000,9,0,6,3,Australia,Summer,9005064475.0
+Japan,JPN,2000,18,5,8,5,Australia,Summer,4968359152796.0
+Kazakhstan,KAZ,2000,7,3,4,0,Australia,Summer,18291990619.0
+Kenya,KEN,2000,7,2,3,2,Australia,Summer,12705350153.0
+Kuwait,KUW,2000,1,0,0,1,Australia,Summer,37718794714.0
+Kyrgyz Republic,KGZ,2000,1,0,0,1,Australia,Summer,1369688498.0
+Latvia,LAT,2000,3,1,1,1,Australia,Summer,7958852839.0
+Lithuania,LTU,2000,5,2,0,3,Australia,Summer,11524776867.0
+Mexico,MEX,2000,6,1,2,3,Australia,Summer,707909864022.0
+Morocco,MAR,2000,5,0,1,4,Australia,Summer,43017455401.0
+Mozambique,MOZ,2000,1,1,0,0,Australia,Summer,5656473652.0
+Netherlands,NED,2000,25,12,9,4,Australia,Summer,417479337445.0
+New Zealand,NZL,2000,4,1,0,3,Australia,Summer,52622954599.0
+Nigeria,NGR,2000,3,1,2,0,Australia,Summer,69448962761.0
+Norway,NOR,2000,10,4,3,3,Australia,Summer,171456390282.0
+China,CHN,2000,58,28,16,14,Australia,Summer,1211331627479.0
+Poland,POL,2000,14,6,5,3,Australia,Summer,172220451787.0
+Portugal,POR,2000,2,0,0,2,Australia,Summer,118605192877.0
+Qatar,QAT,2000,1,0,0,1,Australia,Summer,17759890110.0
+"Korea, Rep.",KOR,2000,28,8,10,10,Australia,Summer,576178114168.0
+Moldova,MDA,2000,2,0,1,1,Australia,Summer,1288429392.0
+Romania,ROU,2000,26,11,6,9,Australia,Summer,37253738081.0
+Russian Federation,RUS,2000,89,32,28,29,Australia,Summer,259710142197.0
+Saudi Arabia,KSA,2000,2,0,1,1,Australia,Summer,189514910223.0
+Serbia,SCG,2000,3,1,1,1,Australia,Summer,6875845987.0
+Slovak Republic,SVK,2000,5,1,3,1,Australia,Summer,29242558797.0
+Slovenia,SLO,2000,2,2,0,0,Australia,Summer,20289627637.0
+South Africa,RSA,2000,5,0,2,3,Australia,Summer,151752749926.0
+Spain,ESP,2000,11,3,3,5,Australia,Summer,598363313495.0
+Sri Lanka,SRI,2000,1,0,1,0,Australia,Summer,16330814180.0
+Sweden,SWE,2000,12,4,5,3,Australia,Summer,262834187367.0
+Switzerland,SUI,2000,9,1,6,2,Australia,Summer,279209007353.0
+Thailand,THA,2000,3,1,0,2,Australia,Summer,126392223203.0
+North Macedonia,MKD,2000,1,0,0,1,Australia,Summer,3772859053.0
+Trinidad and Tobago,TTO,2000,2,0,1,1,Australia,Summer,8154342548.0
+Turkiye,TUR,2000,5,3,0,2,Australia,Summer,274294842523.0
+Ukraine,UKR,2000,23,3,10,10,Australia,Summer,32375081951.0
+United States,USA,2000,93,37,24,32,Australia,Summer,10250947997000.0
+Uruguay,URU,2000,1,0,1,0,Australia,Summer,22823271521.0
+Uzbekistan,UZB,2000,4,1,1,2,Australia,Summer,13760513969.0
+Vietnam,VIE,2000,1,0,1,0,Australia,Summer,31172518403.0
+Argentina,ARG,1964,1,0,1,0,Japan,Summer,25605249382.0
+Australia,AUS,1964,18,6,2,10,Japan,Summer,23801123811.0
+"Bahamas, The",BAH,1964,1,1,0,0,Japan,Summer,266666666.7
+Belgium,BEL,1964,3,2,0,1,Japan,Summer,15960106681.0
+Brazil,BRA,1964,1,0,0,1,Japan,Summer,20963733695.0
+Canada,CAN,1964,4,1,2,1,Japan,Summer,49377963149.0
+Finland,FIN,1964,5,3,0,2,Japan,Summer,7766655086.0
+France,FRA,1964,15,1,8,6,Japan,Summer,94007851047.0
+Ghana,GHA,1964,1,0,0,1,Japan,Summer,1731296200.0
+United Kingdom,GBR,1964,18,4,12,2,Japan,Summer,94407562407.0
+India,IND,1964,1,1,0,0,Japan,Summer,56480289896.0
+Ireland,IRL,1964,1,0,0,1,Japan,Summer,2766608946.0
+"Iran, Islamic Rep.",IRI,1964,2,0,0,2,Japan,Summer,5379845642.0
+Italy,ITA,1964,27,10,10,7,Japan,Summer,63175417019.0
+Japan,JPN,1964,29,16,5,8,Japan,Summer,81749006300.0
+Kenya,KEN,1964,1,0,0,1,Japan,Summer,998759333.6
+Mexico,MEX,1964,1,0,0,1,Japan,Summer,20079999980.0
+Netherlands,NED,1964,10,2,4,4,Japan,Summer,18699380731.0
+New Zealand,NZL,1964,5,3,0,2,Japan,Summer,7274144351.0
+Nigeria,NGR,1964,1,0,0,1,Japan,Summer,5552931321.0
+Pakistan,PAK,1964,1,0,1,0,Japan,Summer,5204955901.0
+Philippines,PHI,1964,1,0,1,0,Japan,Summer,5953755756.0
+"Korea, Rep.",KOR,1964,3,0,2,1,Japan,Summer,3459032883.0
+Sweden,SWE,1964,8,2,2,4,Japan,Summer,22532417359.0
+Switzerland,SUI,1964,4,1,2,1,Japan,Summer,14480556816.0
+Trinidad and Tobago,TTO,1964,3,0,1,2,Japan,Summer,711897520.0
+Turkiye,TUR,1964,6,2,3,1,Japan,Summer,11129344520.0
+United States,USA,1964,90,36,26,28,Japan,Summer,685800000000.0
+Uruguay,URU,1964,1,0,0,1,Japan,Summer,1975701816.0
+Argentina,ARG,2020,3,0,1,2,Japan,Summer,385540406816.0
+Armenia,ARM,2020,4,0,2,2,Japan,Summer,12641698594.0
+Australia,AUS,2020,45,17,7,21,Japan,Summer,1326944627877.0
+Austria,AUT,2020,7,1,1,5,Japan,Summer,435225238000.0
+Azerbaijan,AZE,2020,7,0,3,4,Japan,Summer,42693000000.0
+"Bahamas, The",BAH,2020,2,2,0,0,Japan,Summer,9754600000.0
+Bahrain,BRN,2020,1,0,1,0,Japan,Summer,34621807713.0
+Belarus,BLR,2020,7,1,3,3,Japan,Summer,61371755326.0
+Belgium,BEL,2020,7,3,1,3,Japan,Summer,525213067068.0
+Bermuda,BER,2020,1,1,0,0,Japan,Summer,6887147000.0
+Botswana,BOT,2020,1,0,0,1,Japan,Summer,14960291541.0
+Brazil,BRA,2020,20,6,6,8,Japan,Summer,1476107292037.0
+Bulgaria,BUL,2020,6,3,1,2,Japan,Summer,70404359049.0
+Burkina Faso,BUR,2020,1,0,0,1,Japan,Summer,17933606213.0
+Canada,CAN,2020,24,7,6,11,Japan,Summer,1647598402303.0
+Colombia,COL,2020,5,0,4,1,Japan,Summer,270150956773.0
+Croatia,CRO,2020,8,3,3,2,Japan,Summer,57624938982.0
+Cuba,CUB,2020,15,7,3,5,Japan,Summer,107352000000.0
+Czechia,CZE,2020,11,4,4,3,Japan,Summer,245974558654.0
+Cote d'Ivoire,CIV,2020,1,0,0,1,Japan,Summer,62982768372.0
+Denmark,DEN,2020,11,3,4,4,Japan,Summer,355222449505.0
+Dominican Republic,DOM,2020,5,0,3,2,Japan,Summer,78844655833.0
+Ecuador,ECU,2020,3,2,1,0,Japan,Summer,99291124000.0
+"Egypt, Arab Rep.",EGY,2020,6,1,1,4,Japan,Summer,383817841547.0
+Estonia,EST,2020,2,1,0,1,Japan,Summer,31370395573.0
+Ethiopia,ETH,2020,4,1,1,2,Japan,Summer,107657734392.0
+Fiji,FIJ,2020,2,1,0,1,Japan,Summer,4477030180.0
+Finland,FIN,2020,2,0,0,2,Japan,Summer,271886077382.0
+France,FRA,2020,33,10,12,11,Japan,Summer,2639008701648.0
+Georgia,GEO,2020,8,2,5,1,Japan,Summer,15842922533.0
+Germany,GER,2020,37,10,11,16,Japan,Summer,3889668895300.0
+Ghana,GHA,2020,1,0,0,1,Japan,Summer,70043095503.0
+United Kingdom,GBR,2020,65,22,21,22,Japan,Summer,2704609160088.0
+Greece,GRE,2020,4,2,1,1,Japan,Summer,188925995937.0
+Grenada,GRN,2020,1,0,0,1,Japan,Summer,1043411111.0
+"Hong Kong SAR, China",HKG,2020,6,1,2,3,Japan,Summer,344943149590.0
+Hungary,HUN,2020,20,6,7,7,Japan,Summer,157227094449.0
+India,IND,2020,7,1,2,4,Japan,Summer,2671595389576.0
+Indonesia,INA,2020,5,1,1,3,Japan,Summer,1059054842712.0
+Ireland,IRL,2020,4,2,0,2,Japan,Summer,425852281928.0
+"Iran, Islamic Rep.",IRI,2020,7,3,2,2,Japan,Summer,239735486746.0
+Israel,ISR,2020,4,2,0,2,Japan,Summer,413267669232.0
+Italy,ITA,2020,40,10,10,20,Japan,Summer,1897210466668.0
+Jamaica,JAM,2020,9,4,1,4,Japan,Summer,13812421859.0
+Japan,JPN,2020,57,27,13,17,Japan,Summer,5048789595589.0
+Jordan,JOR,2020,2,0,1,1,Japan,Summer,43579916197.0
+Kazakhstan,KAZ,2020,8,0,0,8,Japan,Summer,171082365723.0
+Kenya,KEN,2020,10,4,4,2,Japan,Summer,100657505601.0
+Kosovo,KOS,2020,2,2,0,0,Japan,Summer,7717143395.0
+Kuwait,KUW,2020,1,0,0,1,Japan,Summer,105948765156.0
+Kyrgyz Republic,KGZ,2020,3,0,2,1,Japan,Summer,7780873259.0
+Latvia,LAT,2020,2,1,0,1,Japan,Summer,34601740323.0
+Lithuania,LTU,2020,1,0,1,0,Japan,Summer,56914826861.0
+Malaysia,MAS,2020,2,0,1,1,Japan,Summer,337339463180.0
+Mexico,MEX,2020,4,0,0,4,Japan,Summer,1090514966786.0
+Mongolia,MGL,2020,4,0,1,3,Japan,Summer,13312981427.0
+Morocco,MAR,2020,1,1,0,0,Japan,Summer,121347533650.0
+Namibia,NAM,2020,1,0,1,0,Japan,Summer,10583748757.0
+Netherlands,NED,2020,36,10,12,14,Japan,Summer,909793466661.0
+New Zealand,NZL,2020,20,7,6,7,Japan,Summer,212569779570.0
+Nigeria,NGR,2020,2,0,1,1,Japan,Summer,432198936002.0
+North Macedonia,MKD,2020,1,0,1,0,Japan,Summer,12363580535.0
+Norway,NOR,2020,8,4,2,2,Japan,Summer,367633418887.0
+China,CHN,2020,88,38,32,18,Japan,Summer,14687743556970.0
+Philippines,PHI,2020,4,1,2,1,Japan,Summer,361751145432.0
+Poland,POL,2020,14,4,5,5,Japan,Summer,599442783603.0
+Portugal,POR,2020,4,1,1,2,Japan,Summer,229031860521.0
+Puerto Rico,PUR,2020,1,1,0,0,Japan,Summer,103130900000.0
+Qatar,QAT,2020,3,2,0,1,Japan,Summer,144411363345.0
+"Korea, Rep.",KOR,2020,20,6,4,10,Japan,Summer,1644312785467.0
+Moldova,MDA,2020,1,0,0,1,Japan,Summer,11531967881.0
+Romania,ROU,2020,4,1,3,0,Japan,Summer,251362534092.0
+San Marino,SMR,2020,3,0,1,2,Japan,Summer,1541247884.0
+Saudi Arabia,KSA,2020,1,0,1,0,Japan,Summer,734271183955.0
+Serbia,SRB,2020,9,3,1,5,Japan,Summer,53356484764.0
+Slovak Republic,SVK,2020,4,1,2,1,Japan,Summer,106728917483.0
+Slovenia,SLO,2020,5,3,1,1,Japan,Summer,53706800044.0
+South Africa,RSA,2020,3,1,2,0,Japan,Summer,337619569571.0
+Spain,ESP,2020,17,3,8,6,Japan,Summer,1276962685648.0
+Sweden,SWE,2020,9,3,6,0,Japan,Summer,547054174236.0
+Switzerland,SUI,2020,13,3,4,6,Japan,Summer,739913619797.0
+Syrian Arab Republic,SYR,2020,1,0,0,1,Japan,Summer,11159274040.0
+Thailand,THA,2020,2,1,0,1,Japan,Summer,500457261548.0
+Tunisia,TUN,2020,2,1,1,0,Japan,Summer,42538462678.0
+Turkiye,TUR,2020,13,2,2,9,Japan,Summer,720288811762.0
+Turkmenistan,TKM,2020,1,0,1,0,Japan,Summer,45610571429.0
+Uganda,UGA,2020,4,2,1,1,Japan,Summer,37605430214.0
+Ukraine,UKR,2020,19,1,6,12,Japan,Summer,156617719786.0
+United States,USA,2020,113,39,41,33,Japan,Summer,21060473613000.0
+Uzbekistan,UZB,2020,5,3,0,2,Japan,Summer,60224701296.0
+Australia,AUS,2006,2,1,0,1,Italy,Winter,747907432137.0
+Austria,AUT,2006,23,9,7,7,Italy,Winter,336280064332.0
+Belarus,BLR,2006,1,0,1,0,Italy,Winter,36961822468.0
+Bulgaria,BUL,2006,1,0,1,0,Italy,Winter,34380543845.0
+Canada,CAN,2006,24,7,10,7,Italy,Winter,1319264809591.0
+Croatia,CRO,2006,3,1,2,0,Italy,Winter,49532592593.0
+Czechia,CZE,2006,4,1,2,1,Italy,Winter,156264210926.0
+Estonia,EST,2006,3,3,0,0,Italy,Winter,17022870405.0
+Finland,FIN,2006,9,0,6,3,Italy,Winter,217089269792.0
+France,FRA,2006,9,3,2,4,Italy,Winter,2320536221305.0
+Germany,GER,2006,29,11,12,6,Italy,Winter,2994703642024.0
+United Kingdom,GBR,2006,1,0,1,0,Italy,Winter,2709978165671.0
+Italy,ITA,2006,11,5,0,6,Italy,Winter,1949551719390.0
+Japan,JPN,2006,1,1,0,0,Italy,Winter,4601662661030.0
+Latvia,LAT,2006,1,0,0,1,Italy,Winter,21570076499.0
+Netherlands,NED,2006,9,3,2,4,Italy,Winter,733955269899.0
+Norway,NOR,2006,19,2,8,9,Italy,Winter,346913357588.0
+China,CHN,2006,11,2,4,5,Italy,Winter,2752118542130.0
+Poland,POL,2006,2,0,1,1,Italy,Winter,344626630395.0
+"Korea, Rep.",KOR,2006,11,6,3,2,Italy,Winter,1053216892422.0
+Russian Federation,RUS,2006,22,8,6,8,Italy,Winter,989932059221.0
+Slovak Republic,SVK,2006,1,0,1,0,Italy,Winter,70767338922.0
+Sweden,SWE,2006,14,7,2,5,Italy,Winter,423090618043.0
+Switzerland,SUI,2006,14,5,4,5,Italy,Winter,441619409123.0
+Ukraine,UKR,2006,2,0,0,2,Italy,Winter,111884752475.0
+United States,USA,2006,25,9,9,7,Italy,Winter,13815586948000.0
+Australia,AUS,2010,3,2,1,0,Canada,Winter,1148569537285.0
+Austria,AUT,2010,16,4,6,6,Canada,Winter,392275107259.0
+Belarus,BLR,2010,3,1,1,1,Canada,Winter,57231904543.0
+Canada,CAN,2010,26,14,7,5,Canada,Winter,1617343367486.0
+Croatia,CRO,2010,3,0,2,1,Canada,Winter,58693611581.0
+Czechia,CZE,2010,6,2,0,4,Canada,Winter,209069940963.0
+Estonia,EST,2010,1,0,1,0,Canada,Winter,19523477326.0
+Finland,FIN,2010,5,0,1,4,Canada,Winter,249424310817.0
+France,FRA,2010,11,2,3,6,Canada,Winter,2645187882117.0
+Germany,GER,2010,30,10,13,7,Canada,Winter,3399667820000.0
+United Kingdom,GBR,2010,1,1,0,0,Canada,Winter,2491397494468.0
+Italy,ITA,2010,5,1,1,3,Canada,Winter,2136099955237.0
+Japan,JPN,2010,5,0,3,2,Canada,Winter,5759071769013.0
+Kazakhstan,KAZ,2010,1,0,1,0,Canada,Winter,148047348241.0
+Latvia,LAT,2010,2,0,2,0,Canada,Winter,23956163077.0
+Netherlands,NED,2010,8,4,1,3,Canada,Winter,847380859017.0
+Norway,NOR,2010,23,9,8,6,Canada,Winter,431052143940.0
+China,CHN,2010,11,5,2,4,Canada,Winter,6087191720867.0
+Poland,POL,2010,6,1,3,2,Canada,Winter,475696613936.0
+"Korea, Rep.",KOR,2010,14,6,6,2,Canada,Winter,1144066965324.0
+Russian Federation,RUS,2010,15,3,5,7,Canada,Winter,1524916698233.0
+Slovak Republic,SVK,2010,3,1,1,1,Canada,Winter,91162836320.0
+Slovenia,SLO,2010,3,0,2,1,Canada,Winter,48208240226.0
+Sweden,SWE,2010,11,5,2,4,Canada,Winter,495812558843.0
+Switzerland,SUI,2010,9,6,0,3,Canada,Winter,598851028907.0
+United States,USA,2010,37,9,15,13,Canada,Winter,15048964444000.0
